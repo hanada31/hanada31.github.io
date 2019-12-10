@@ -1,4 +1,6 @@
-# Jiwei Yan (燕季薇）
+Jiwei Yan's HomePage (燕季薇）
+
+## Jiwei Yan (燕季薇）
 
 ![Image](imypic.jpg)
 
