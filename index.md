@@ -2,7 +2,7 @@ Jiwei Yan's HomePage (燕季薇）
 
 ## Jiwei Yan (燕季薇）
 
-![Image](myPic.jpg)
+<img src="myPic.jpg" width = 30% height = 30% />
 
 PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
 
@@ -15,6 +15,8 @@ My research interest is software analysis and testing, especially on mobile apps
 My current work focuses on the multiple entry testing of Android apps.
 
 ### Publications
+* \[ICSE 2019\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang:
+Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.
 * \[ISSTA 2019\] Linjie Pan, Baoquan Cui, **Jiwei Yan**, Xutong Ma, Jun Yan, Jian Zhang:
 Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android. 
 * \[QRS 2019\] Xutong Ma, **Jiwei Yan**, Jun Yan, Jian Zhang:
