@@ -1,7 +1,7 @@
 Jiwei Yan's HomePage (燕季薇）
 
 ## Jiwei Yan (燕季薇）
-![](myPic.jpg =400x300)
+(myPic.jpg)
 
 PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
 
