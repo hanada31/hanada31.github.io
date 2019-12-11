@@ -3,7 +3,7 @@
     <img src="myPic.jpg"/>
 </div>
 
-<div style='float:left;' height="200">
+<div  height="200">
 PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
 Email: yanjw(AT)ios.ac.cn
 </div>
