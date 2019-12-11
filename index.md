@@ -1,13 +1,20 @@
-<div>
-<div style='float:left;' height="200">
-    <img src="myPic.jpg"/>
+<body>
+<img src="myPic.jpg" style="float:left">
+<div style="float:left;">这里是一些文字1
+  这里是一些文字2
+  这里是一些文字3
+  这里是一些文字4
+  这里是一些文字5
 </div>
+</body>
 
-<div  height="200">
+<body>
+<img src="myPic.jpg">
+<div style="float:left;">
 PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
 Email: yanjw(AT)ios.ac.cn
 </div>
-</div>
+</body>
 
 ## Short Bio
 I am a PhD student as well as an assistant engineer in ISCAS, pursuing my Ph.D degree under the supervision of Prof. Jian Zhang and Prof. Jun Yan.
