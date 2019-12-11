@@ -1,5 +1,5 @@
 <body>
-<div style="float:left;width:150px">
+<div style="float:left;width:200px">
 <img src="myPic.jpg">
 </div>
 </body>
@@ -7,11 +7,11 @@
 
 Jiwei Yan 燕季薇
 
-PhD student in the Institute of Software, Chinese Academy of Sciences (ISCAS).
-
+PhD student in the Institute of Software, Chinese Academy of Sciences (ISCAS).  
 Assistant engineer in [ISCAS](http://www.iscas.ac.cn/).
 
-Email: yanjw(AT)ios.ac.cn
+Email: yanjw(AT)ios.ac.cn  
+
 
 ## Short Bio
 I am a PhD student as well as an assistant engineer in ISCAS, pursuing my Ph.D degree under the supervision of Prof. Jian Zhang and Prof. Jun Yan.
