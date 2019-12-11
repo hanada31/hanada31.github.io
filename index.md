@@ -1,15 +1,7 @@
 <body>
-<img src="myPic.jpg" style="float:left">
-<div style="float:left;">这里是一些文字1
-  这里是一些文字2
-  这里是一些文字3
-  这里是一些文字4
-  这里是一些文字5
-</div>
-</body>
-
-<body>
+<div style="float:left;">
 <img src="myPic.jpg">
+</div>
 <div style="float:left;">
 PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
 Email: yanjw(AT)ios.ac.cn
