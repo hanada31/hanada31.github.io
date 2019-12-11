@@ -1,14 +1,14 @@
 <body>
-<div style="float:left;" width="300">
+<div style="float:left;" width="800">
 <img src="myPic.jpg">
 </div>
 </body>
 
 
 ## Jiwei Yan 燕季薇
-PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
+PhD student in the Institute of Software, Chinese Academy of Sciences (ISCAS).
 
-Assistant engineer in ISCAS.
+Assistant engineer in [ISCAS](http://www.iscas.ac.cn/).
 
 Email: yanjw(AT)ios.ac.cn
 
