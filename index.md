@@ -2,11 +2,11 @@ Jiwei Yan's HomePage (燕季薇）
 
 ## Jiwei Yan (燕季薇）
 
-![Image](imypic.jpg)
+![Image](mypic.jpg)
 
-PhD student in the Institute of Software, Chinese Academy of Sciences (ISCAS).
-[link](http://www.iscas.ac.cn/)
-Email: yanjw(AT)ios(dot)ac(dot)cn
+PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
+
+Email: yanjw(AT)ios.ac.cn
 
 
 ## Short Bio
