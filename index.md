@@ -1,6 +1,4 @@
-#Jiwei Yan's HomePage (燕季薇）
-
-## Jiwei Yan (燕季薇）
+# Jiwei Yan's HomePage (燕季薇）
 ![Image](myPic.jpg)
 
 PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
@@ -25,7 +23,7 @@ In Proceedings of 42nd International Conference on Software Engineering. \[accep
 In Proceedings of 42nd International Conference on Software Engineering. \[acceptance rate: xx/xx = xxx%\] 
 
 * \[**ISSTA 2019**\] Linjie Pan, Baoquan Cui, ***Jiwei Yan***, Xutong Ma, Jun Yan, Jian Zhang.
-**Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android. **
+**Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android.**
 The ACM SIGSOFT International Symposium on Software Testing and Analysis 2019 (Tool Demonstration).
 
 * \[**ASE 2019**\] Xutong Ma, ***Jiwei Yan***, Yaqi Li, Jun Yan, Jian Zhang.
@@ -61,23 +59,23 @@ Science of Computer Programming.
 
 * \[**ICFEM 2018**\] Cunjing Ge, ***Jiwei Yan***, Jun Yan, Jian Zhang.
 
-**Checking Activity Transition Systems with Back Transitions Against Assertions. **
+**Checking Activity Transition Systems with Back Transitions Against Assertions.**
 The 20th International Conference on Formal Engineering Method. \[acceptance rate: 22/66 = 33.33%\] 
 
 * \[**QRS 2017**\] ***Jiwei Yan***, Tianyong Wu, Jun Yan, Jian Zhang.
 
-**Widget-Sensitive and Back-Stack-Aware GUI Exploration for Testing Android Apps. **
+**Widget-Sensitive and Back-Stack-Aware GUI Exploration for Testing Android Apps.**
 The 17th International Conference on Software Quality, Reliability and Security. \[acceptance rate: 25/112 = 22.32%\] 
 
 * \[**TASE 2016**\] Qiong Lu, Tianyong Wu, ***Jiwei Yan***, Jun Yan, Feifei Ma, Fan Zhang.
 
-**Lightweight Method-Level Energy Consumption Estimation for Android Applications. **
+**Lightweight Method-Level Energy Consumption Estimation for Android Applications.**
 The 10th International Symposium on Theoretical Aspects of Software Engineering.
 
+<div style='display: none'>
 ## Honors and Awards 
 
 ## Academic Services 
 
 ## Teaching Experiences
-
-
+</div>
