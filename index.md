@@ -1,10 +1,9 @@
-![Image](myPic.jpg)
-<div style='float:left;background:#f00;'>
+<div style='float:left;'>
     <img src="myPic.jpg" width="200"/>
 </div>
-<div style='float:left;background:#0f0;margin-left:10px;'>
-PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
 
+<div>
+PhD student in the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)).
 Email: yanjw(AT)ios.ac.cn
 </div>
 
