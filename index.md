@@ -24,11 +24,11 @@ In Proceedings of 42nd International Conference on Software Engineering.
 
 * \[**ISSTA 2019**\] Linjie Pan, Baoquan Cui, ***Jiwei Yan***, Xutong Ma, Jun Yan, Jian Zhang.
 **Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android.**
-The ACM SIGSOFT International Symposium on Software Testing and Analysis 2019 (Tool Demonstration).
+The ACM SIGSOFT International Symposium on Software Testing and Analysis 2019, Tool Track.
 
 * \[**ASE 2019**\] Xutong Ma, ***Jiwei Yan***, Yaqi Li, Jun Yan, Jian Zhang.
 **SPrinter: A Clang-Tidy Based Static Code Checker for C++ Smart Pointer Errors.**
-The 34th IEEE/ACM International Conference on Automated Software Engineering (Tool Demo).
+The 34th IEEE/ACM International Conference on Automated Software Engineering, Tool Track.
 
 * \[**QRS 2019**\] Xutong Ma, ***Jiwei Yan***, Jun Yan, Jian Zhang.
 **Reorganizing and Optimizing Post-Inspection on Suspicious Bug Reports in Path-Sensitive Analysis.**
@@ -46,7 +46,7 @@ The 33th IEEE/ACM International Conference on Automated Software Engineering. \[
 
 * \[**ISSTA 2018**\] ***Jiwei Yan***, Linjie Pan, Yaqi Li, Jun Yan, Jian Zhang.
 **LAND: a user-friendly and customizable test generation tool for Android apps.**
-The ACM SIGSOFT International Symposium on Software Testing and Analysis 2018 (Tool Demonstration).
+The ACM SIGSOFT International Symposium on Software Testing and Analysis 2018, Tool Track.
 
 * \[**SCP 2018**\] Yan Hu, ***Jiwei Yan***, Dong Yan, Qiong Lu, Jun Yan.
 **Lightweight energy consumption analysis and prediction for Android applications.** 
