@@ -16,6 +16,8 @@ My current work focuses on the multiple entry testing of Android apps.
 In Proceedings of 42nd International Conference on Software Engineering. 
 
 ## Publications
+### 2019
+
 * \[**ICSE 2019**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang.
 **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
 In Proceedings of 42nd International Conference on Software Engineering. 
@@ -36,6 +38,8 @@ The 19th International Conference on Software Quality, Reliability and Security.
 **Understanding Ineffective Events and Reducing Test Sequences for Android Applications.**
 The 13th International Symposium on Theoretical Aspects of Software Engineering.
 
+### 2018
+
 * \[**ASE 2018**\] ***Jiwei Yan***, Xi Deng, Ping Wang, Tianyong Wu, Jun Yan, Jian Zhang.
 **Characterizing and identifying misexposed activities in Android applications.** 
 The 33th IEEE/ACM International Conference on Automated Software Engineering. \[Acceptance rate: 83/346 = 23.99%\] 
@@ -52,9 +56,13 @@ Science of Computer Programming.
 **Checking Activity Transition Systems with Back Transitions Against Assertions.**
 The 20th International Conference on Formal Engineering Method. \[acceptance rate: 22/66 = 33.33%\] 
 
+### 2017
+
 * \[**QRS 2017**\] ***Jiwei Yan***, Tianyong Wu, Jun Yan, Jian Zhang.
 **Widget-Sensitive and Back-Stack-Aware GUI Exploration for Testing Android Apps.**
 The 17th International Conference on Software Quality, Reliability and Security. \[Acceptance rate: 25/112 = 22.32%\] 
+
+### 2016
 
 * \[**TASE 2016**\] Qiong Lu, Tianyong Wu, ***Jiwei Yan***, Jun Yan, Feifei Ma, Fan Zhang.
 **Lightweight Method-Level Energy Consumption Estimation for Android Applications.**
