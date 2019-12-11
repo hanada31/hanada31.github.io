@@ -10,7 +10,9 @@
 PhD student in the Institute of Software, Chinese Academy of Sciences (ISCAS).  
 Assistant engineer in [ISCAS](http://www.iscas.ac.cn/).
 
-Email: yanjw(AT)ios.ac.cn  
+Email: yanjw(AT)ios.ac.cn
+
+Interests: Program Analysis; Software Testing; Mobile Applications
 
 
 ## Short Bio
