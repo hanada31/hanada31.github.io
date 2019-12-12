@@ -52,7 +52,7 @@ The 13th International Symposium on Theoretical Aspects of Software Engineering.
 
 * \[**ASE 2018**\] ***Jiwei Yan***, Xi Deng, Ping Wang, Tianyong Wu, Jun Yan, Jian Zhang.
 **Characterizing and identifying misexposed activities in Android applications.** 
-The 33th IEEE/ACM International Conference on Automated Software Engineering. \[Acceptance rate: 83/346 = 23.99%\] 
+The 33th IEEE/ACM International Conference on Automated Software Engineering. \[Acceptance rate: 69/346 = 19.94%\] 
 
 * \[**ISSTA 2018**\] ***Jiwei Yan***, Linjie Pan, Yaqi Li, Jun Yan, Jian Zhang.
 **LAND: a user-friendly and customizable test generation tool for Android apps.**
