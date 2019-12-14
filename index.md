@@ -7,30 +7,28 @@
 
 **Jiwei Yan 燕季薇**
 
-PhD student in the Institute of Software, Chinese Academy of Sciences (ISCAS).  
-Assistant engineer in [ISCAS](http://www.iscas.ac.cn/).
+PhD student at Institute of Software, Chinese Academy of Sciences (ISCAS)
+Assistant engineer at [ISCAS](http://www.iscas.ac.cn/)
 
 Email: yanjw(AT)ios.ac.cn
 
-Interests: Program Analysis; Software Testing; Mobile Applications
+Research interests: Program Analysis, Software Testing, and Mobile Applications
 
 
 ## Short Bio
-I am a PhD student as well as an assistant engineer in ISCAS, pursuing my Ph.D degree under the supervision of Prof. Jian Zhang and Prof. Jun Yan.
-My research interest is software analysis and testing, especially on mobile apps. 
+I am a Ph.D. student as well as an assistant engineer at ISCAS, under the supervision of Prof. Jian Zhang and Prof. Jun Yan.
+My research interests include software analysis and testing, especially on mobile apps. 
 My current work focuses on the multiple entry testing of Android apps.
 
 ## News
-* \[**ICSE 2019**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang.
-**Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
-In Proceedings of 42nd International Conference on Software Engineering. 
+* \[Dec 2019\] One paper about multiple entry testing of Android apps was accepted by **ICSE 2019**.
 
 ## Publications
 ### 2019
 
 * \[**ICSE 2019**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang.
 **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
-In Proceedings of 42nd International Conference on Software Engineering. 
+The 42nd International Conference on Software Engineering. 
 
 * \[**ISSTA 2019**\] Linjie Pan, Baoquan Cui, ***Jiwei Yan***, Xutong Ma, Jun Yan, Jian Zhang.
 **Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android.**
