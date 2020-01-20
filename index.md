@@ -28,7 +28,7 @@ My current work focuses on the multiple entry testing of Android apps.
 
 * \[**ICSE 2019**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang.
 **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
-The 42nd International Conference on Software Engineering. 
+The 42nd International Conference on Software Engineering. \[Acceptance rate: 129/617 = 20.90%\]
 
 * \[**ISSTA 2019**\] Linjie Pan, Baoquan Cui, ***Jiwei Yan***, Xutong Ma, Jun Yan, Jian Zhang.
 **Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android.**
