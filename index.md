@@ -21,12 +21,12 @@ My research interests include software analysis and testing, especially on mobil
 My current work focuses on the multiple entry testing of Android apps.
 
 ## News
-* \[Dec 2019\] One paper about multiple entry testing of Android apps was accepted by **ICSE 2019**.
+* \[Dec 2019\] One paper about multiple entry testing of Android apps was accepted by **ICSE 2020**.
 
 ## Publications
 ### 2019
 
-* \[**ICSE 2019**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang.
+* \[**ICSE 2020**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang.
 **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
 The 42nd International Conference on Software Engineering. \[Acceptance rate: 129/617 = 20.90%\]
 
