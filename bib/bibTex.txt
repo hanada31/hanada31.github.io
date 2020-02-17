@@ -1,7 +1,7 @@
 @inproceedings{icse20_fax,
   author    = {Jiwei Yan and
-			   Hao Liu and
-			   Linjie Pan and
+	       Hao Liu and
+	       Linjie Pan and
                Jun Yan and
                Jian Zhang and
 			   Bin Liang},
