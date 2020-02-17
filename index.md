@@ -30,24 +30,24 @@ My current work focuses on the multiple entry testing of Android apps.
 * \[**ICSE 2020**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang.
 **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
 The 42nd International Conference on Software Engineering. \[Acceptance rate: 129/617 = 20.90%\]
-[[pdf]](pdf/icse2020_fax.pdf)
+[[pdf]](pdf/icse20_fax.pdf)
 
 ### 2019
 
 * \[**ISSTA 2019**\] Linjie Pan, Baoquan Cui, ***Jiwei Yan***, Xutong Ma, Jun Yan, Jian Zhang.
 **Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android.**
 The ACM SIGSOFT International Symposium on Software Testing and Analysis 2019, Tool Track.
-[[pdf]](pdf/issta2019_androlic.pdf)
+[[pdf]](pdf/issta19_androlic.pdf)
 
 * \[**ASE 2019**\] Xutong Ma, ***Jiwei Yan***, Yaqi Li, Jun Yan, Jian Zhang.
 **SPrinter: A Clang-Tidy Based Static Code Checker for C++ Smart Pointer Errors.**
 The 34th IEEE/ACM International Conference on Automated Software Engineering, Tool Track.
-[[pdf]](pdf/ase2019_smartpointer.pdf)
+[[pdf]](pdf/ase19_smartpointer.pdf)
 
 * \[**QRS 2019**\] Xutong Ma, ***Jiwei Yan***, Jun Yan, Jian Zhang.
 **Reorganizing and Optimizing Post-Inspection on Suspicious Bug Reports in Path-Sensitive Analysis.**
 The 19th International Conference on Software Quality, Reliability and Security. \[Acceptance rate: 25/112 = 22.32%\] 
-[[pdf]](pdf/qrs2019_report.pdf)
+[[pdf]](pdf/qrs19_report.pdf)
 
 * \[**TASE 2019**\] Ping Wang, ***Jiwei Yan***, Xi Deng, Jun Yan, Jian Zhang.
 **Understanding Ineffective Events and Reducing Test Sequences for Android Applications.**
