@@ -1,6 +1,6 @@
 <body>
 <div style="float:left;width:200px">
-<img src="myPic.jpg">
+<img src="myPic.png">
 </div>
 </body>
 
@@ -21,7 +21,8 @@ My research interests include software analysis and testing, especially on mobil
 My current work focuses on the multiple entry testing of Android apps.
 
 ## News
-* \[Dec 2019\] One paper about multiple entry testing of Android apps was accepted by **ICSE 2020**.
+* \[May 2020\] One paper about asynchronous component misuse detection of Android apps was accepted by **ESEC/FSE 2020**.
+* \[Jul 2020\] One paper about Android event reduction was accepted by **Science of Computer Programming**.
 
 ## Publications
 
@@ -31,6 +32,18 @@ My current work focuses on the multiple entry testing of Android apps.
 **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
 The 42nd International Conference on Software Engineering. \[Acceptance rate: 129/617 = 20.90%\]
 [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/bibTex.txt)
+
+* \[**SCP 2020**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
+**Efficient Testing of GUI Applications by Event Sequence reduction.**
+Science of Computer Programming.
+<!-- [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/bibTex.txt) -->
+
+* \[**ESEC/FSE 2020**\] Linjie Pan, Baoquan Cui, Hao Liu, ***Jiwei Yan***, Siqi Wang, Jun Yan, Jian Zhang.
+**Static Asynchronous Component Misuse Detection for Android Applications.**
+The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2020. \[Acceptance rate: 101/360 = 28.06%\]
+<!-- [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/bibTex.txt) -->
+
+
 
 ### 2019
 
