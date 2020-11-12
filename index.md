@@ -15,17 +15,24 @@ Email: yanjw(AT)ios.ac.cn
 
 Research interests: Program Analysis, Software Testing, and Mobile Applications
 
-
 ## Short Bio
 I am a Ph.D. student as well as an assistant engineer at ISCAS, under the supervision of Prof. Jian Zhang and Prof. Jun Yan.
 My research interests include software analysis and testing, especially on mobile apps. 
 My current work focuses on the multiple entry testing of Android apps.
 
-## News
+## Education
+* Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences
+
+* Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
+
+
+
+## Publications
+
+### News
 * \[May 2020\] One paper about asynchronous component misuse detection of Android apps was accepted by **ESEC/FSE 2020**.
 * \[Jul 2020\] One paper about Android event reduction was accepted by **Science of Computer Programming**.
 
-## Publications
 
 ### 2020
 
@@ -36,7 +43,7 @@ The 42nd International Conference on Software Engineering. \[Acceptance rate: 12
 
 * \[**SCP 2020**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
 **Efficient Testing of GUI Applications by Event Sequence reduction.**
-Science of Computer Programming.
+Science of Computer Programming. accpeted. DOI: 10.1016/j.scico.2020.102522
 <!-- [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/bibTex.txt) -->
 
 * \[**ESEC/FSE 2020**\] Linjie Pan, Baoquan Cui, Hao Liu, ***Jiwei Yan***, Siqi Wang, Jun Yan, Jian Zhang.
@@ -104,6 +111,12 @@ The 17th International Conference on Software Quality, Reliability and Security.
 The 10th International Symposium on Theoretical Aspects of Software Engineering.
 [[pdf]](pdf/tase16_energy.pdf) [[bibTex]](bib/bibTex.txt)
 
+## Selected Honors
+* National Scholarship for Ph.D. Students (2020)
+* First-class academic scholarship (2020)
+
+## Professional Service
+* Reviewer: APSEC'20
 
 <div style='display: none'>
 Honors and Awards 
