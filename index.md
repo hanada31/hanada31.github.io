@@ -29,27 +29,32 @@ My current work focuses on the multiple entry testing of Android apps.
 
 ## Publications
 
-### News
-* \[May 2020\] One paper about asynchronous component misuse detection of Android apps was accepted by **ESEC/FSE 2020**.
-* \[Jul 2020\] One paper about Android event reduction was accepted by **Science of Computer Programming**.
 
+### 2021
+
+* \[**ASE 2021**\] 
+Xutong Ma, Jiwei Yan, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
+**Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers.**
+The 33th IEEE/ACM International Conference on Automated Software Engineering. \[Acceptance rate: 82/427 = 19.20%\] 
+<!--[[pdf]](pdf/scp_21.pdf) [[bibTex]](bib/bibTex.txt)-->
+
+* \[**SCP 2021**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
+**Efficient Testing of GUI Applications by Event Sequence reduction.**
+Science of Computer Programming. 201: 102522 (2021)
+[[pdf]](pdf/scp_21.pdf) [[bibTex]](bib/bibTex.txt)
 
 ### 2020
-
 * \[**ICSE 2020**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang.
 **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
 The 42nd International Conference on Software Engineering. \[Acceptance rate: 129/617 = 20.90%\]
 [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/bibTex.txt)
 
-* \[**SCP 2020**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
-**Efficient Testing of GUI Applications by Event Sequence reduction.**
-Science of Computer Programming. accpeted. DOI: 10.1016/j.scico.2020.102522
-<!-- [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/bibTex.txt) -->
+
 
 * \[**ESEC/FSE 2020**\] Linjie Pan, Baoquan Cui, Hao Liu, ***Jiwei Yan***, Siqi Wang, Jun Yan, Jian Zhang.
 **Static Asynchronous Component Misuse Detection for Android Applications.**
 The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2020. \[Acceptance rate: 101/360 = 28.06%\]
-<!-- [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/bibTex.txt) -->
+[[pdf]](pdf/fse20.pdf) [[bibTex]](bib/bibTex.txt)
 
 
 
@@ -112,11 +117,13 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering.
 [[pdf]](pdf/tase16_energy.pdf) [[bibTex]](bib/bibTex.txt)
 
 ## Selected Honors
-* National Scholarship for Ph.D. Students (2020)
 * First-class academic scholarship (2020)
+* National Scholarship for Ph.D. Students (2020)
+* First-class academic scholarship (2021)
 
-## Professional Service
-* Reviewer: APSEC'20
+
+<!--## Professional Service
+* Reviewer: APSEC'20 -->
 
 <div style='display: none'>
 Honors and Awards 
