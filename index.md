@@ -36,7 +36,7 @@ My current work focuses on the multiple entry testing of Android apps.
 Xutong Ma, Jiwei Yan, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
 **Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers.**
 The 33th IEEE/ACM International Conference on Automated Software Engineering. \[Acceptance rate: 82/427 = 19.20%\] 
-<!--[[pdf]](pdf/ase21_sp.pdf) [[bibTex]](bib/bibTex.txt)-->
+[[pdf]](pdf/ase21_sp.pdf) <!--[[bibTex]](bib/bibTex.txt)-->
 
 * \[**SCP 2021**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
 **Efficient Testing of GUI Applications by Event Sequence reduction.**
