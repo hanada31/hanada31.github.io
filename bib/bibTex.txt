@@ -1,3 +1,38 @@
+@article{scp21_chard,
+  author    = {Jiwei Yan and
+               Hao Zhou and
+               Xi Deng and
+               Ping Wang and
+               Rongjie Yan and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Efficient testing of {GUI} applications by event sequence reduction},
+  journal   = {Sci. Comput. Program.},
+  volume    = {201},
+  pages     = {102522},
+  year      = {2021},
+}
+
+@inproceedings{fse20_async,
+  author    = {Linjie Pan and
+               Baoquan Cui and
+               Hao Liu and
+               Jiwei Yan and
+               Siqi Wang and
+               Jun Yan and
+               Jian Zhang},
+  editor    = {Prem Devanbu and
+               Myra B. Cohen and
+               Thomas Zimmermann},
+  title     = {Static asynchronous component misuse detection for Android applications},
+  booktitle = {{ESEC/FSE} '20: 28th {ACM} Joint European Software Engineering Conference
+               and Symposium on the Foundations of Software Engineering, Virtual
+               Event, USA, November 8-13, 2020},
+  pages     = {952--963},
+  publisher = {{ACM}},
+  year      = {2020},
+}
+
 @inproceedings{icse20_fax,
   author    = {Jiwei Yan and
 	       Hao Liu and
