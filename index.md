@@ -1,15 +1,15 @@
-<!-- <body>
-<div style="float:left;width:200px">
+<body>
+<div style="float:right;width:200px">
 <img src="myPic.png">
 </div>
-</body> -->
+</body>
 
 
 **Jiwei Yan 燕季薇**
 
-PhD student at Institute of Software, Chinese Academy of Sciences (ISCAS)
+PhD student at Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/))
 
-Assistant engineer at [ISCAS](http://www.iscas.ac.cn/)
+Engineer at Technology Center of Software Engineering, ISCAS
 
 Email: yanjw(AT)ios.ac.cn
 
@@ -21,6 +21,8 @@ My research interests include software analysis and testing, especially on mobil
 My current work focuses on the multiple entry testing of Android apps.
 
 ## Education
+* Sep 2019 - Now, PhD student. in Computer Science, Chinese Academy of Sciences
+
 * Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences
 
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
@@ -31,6 +33,10 @@ My current work focuses on the multiple entry testing of Android apps.
 
 
 ### 2021
+* \[**QRS 2021**\] 
+Xin Zhang, Jiwei Yan, Baoquan Cui, Jun Yan, Jian Zhang.
+**Are the Scala Checks Effective? Evaluating Checks with Real-world Projects.**
+The 21st IEEE International Conference on Software Quality, Reliability, and Security. \[Acceptance rate: 61/243 = 25.10%\] 
 
 * \[**ASE 2021**\] 
 Xutong Ma, Jiwei Yan, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
@@ -115,16 +121,9 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering.
 [[pdf]](pdf/tase16_energy.pdf) [[bibTex]](bib/bibTex.txt)
 
 ## Selected Honors
+* First-class academic scholarship (2021)
 * First-class academic scholarship (2020)
 * National Scholarship for Ph.D. Students (2020)
-* First-class academic scholarship (2021)
 
-
-<!--## Professional Service
-* Reviewer: APSEC'20, Frontiers of Computer Science -->
-
-<div style='display: none'>
-Honors and Awards 
-Academic Services 
-Teaching Experiences
-</div>
+## Service
+* Reviewer of: APSEC'20, Frontiers of Computer Science, MobileSoft'22
