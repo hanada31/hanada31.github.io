@@ -5,8 +5,7 @@
                Jun Yan and
                Jian Zhang},
   title     = {ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for {Android} Applications},
-  booktitle = {The 44th International Conference on Software Engineering, {ICSE} 2022},
-  
+  booktitle = {The 44th International Conference on Software Engineering, {ICSE} 2022 (Tool Track)},
   year      = {2022},
 }
 
