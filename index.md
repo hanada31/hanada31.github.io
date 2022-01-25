@@ -31,18 +31,29 @@ My current work focuses on the multiple entry testing of Android apps.
 
 ## Publications
 
+### 2022
+* \[**ICSE 2022**\] 
+Xin Zhang, Rongjie Yan, Jiwei Yan, Baoquan Cui, Jun Yan, Jian Zhang.
+**ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for Android Applications.**
+The 44th International Conference on Software Engineering, ICSE 2022, Tool Track.
+[[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/bibTex.txt)
+
+* \[**SANER 2022**\] 
+Xin Zhang, Rongjie Yan, Jiwei Yan, Baoquan Cui, Jun Yan, Jian Zhang.
+**EXCEPY: A Python Benchmark for Bugs with Python Built-in Types.**
+IEEE International Conference on Software Analysis, Evolution, and Reengineering.
 
 ### 2021
 * \[**QRS 2021**\] 
-Xin Zhang, Jiwei Yan, Baoquan Cui, Jun Yan, Jian Zhang.
+Xin Zhang, ***Jiwei Yan***, Baoquan Cui, Jun Yan, Jian Zhang.
 **Are the Scala Checks Effective? Evaluating Checks with Real-world Projects.**
 The 21st IEEE International Conference on Software Quality, Reliability, and Security. \[Acceptance rate: 61/243 = 25.10%\] 
 
 * \[**ASE 2021**\] 
-Xutong Ma, Jiwei Yan, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
+Xutong Ma, ***Jiwei Yan***, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
 **Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers.**
 The 36th IEEE/ACM International Conference on Automated Software Engineering. \[Acceptance rate: 82/427 = 19.20%\] 
-[[pdf]](pdf/ase21_sp.pdf) <!--[[bibTex]](bib/bibTex.txt)-->
+[[pdf]](pdf/ase21_sp.pdf) [[bibTex]](bib/bibTex.txt)
 
 * \[**SCP 2021**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
 **Efficient Testing of GUI Applications by Event Sequence reduction.**
