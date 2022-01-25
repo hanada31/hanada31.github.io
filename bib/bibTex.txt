@@ -1,3 +1,31 @@
+@inproceedings{icse22_iccbot,
+  author    = {Jiwei Yan and
+               Shixin Zhang and
+	       Yepang Liu and
+               Jun Yan and
+               Jian Zhang},
+  title     = {ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for {Android} Applications},
+  booktitle = {The 44th International Conference on Software Engineering, {ICSE} 2022},
+  
+  year      = {2022},
+}
+
+@inproceedings{ase21_sp,
+  author    = {Xutong Ma and
+               Jiwei Yan and
+               Wei Wang and
+               Jun Yan and
+               Jian Zhang and
+               Zongyan Qiu},
+  title     = {Detecting Memory-Related Bugs by Tracking Heap Memory Management of
+               {C++} Smart Pointers},
+  booktitle = {36th {IEEE/ACM} International Conference on Automated Software Engineering,
+               {ASE} 2021, Melbourne, Australia, November 15-19, 2021},
+  pages     = {880--891},
+  publisher = {{IEEE}},
+  year      = {2021},
+}
+
 @article{scp21_chard,
   author    = {Jiwei Yan and
                Hao Zhou and
