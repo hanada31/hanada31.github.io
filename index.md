@@ -33,13 +33,13 @@ My current work focuses on the multiple entry testing of Android apps.
 
 ### 2022
 * \[**ICSE 2022**\] 
-Xin Zhang, Rongjie Yan, Jiwei Yan, Baoquan Cui, Jun Yan, Jian Zhang.
+***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
 **ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for Android Applications.**
 The 44th International Conference on Software Engineering, ICSE 2022, Tool Track.
 [[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/bibTex.txt)
 
 * \[**SANER 2022**\] 
-Xin Zhang, Rongjie Yan, Jiwei Yan, Baoquan Cui, Jun Yan, Jian Zhang.
+Xin Zhang, Rongjie Yan, ***Jiwei Yan***, Baoquan Cui, Jun Yan, Jian Zhang.
 **EXCEPY: A Python Benchmark for Bugs with Python Built-in Types.**
 IEEE International Conference on Software Analysis, Evolution, and Reengineering.
 
