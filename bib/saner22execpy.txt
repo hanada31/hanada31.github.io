@@ -1,0 +1,14 @@
+@inproceedings{saner22_execpy,
+  author    = {Xin Zhang and
+               Rongjie Yan and
+               Jiwei Yan and
+               Baoquan Cui and
+               Jun Yan and
+               Jian Zhang},
+  title     = {ExcePy: {A} Python Benchmark for Bugs with Python Built-in Types},
+  booktitle = {{IEEE} International Conference on Software Analysis, Evolution and
+               Reengineering, {SANER} 2022, Honolulu, HI, USA, March 15-18, 2022},
+  pages     = {856--866},
+  publisher = {{IEEE}},
+  year      = {2022},
+}

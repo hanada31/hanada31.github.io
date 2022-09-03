@@ -1,0 +1,15 @@
+@inproceedings{issta19_androlic,
+  author    = {Linjie Pan and
+               Baoquan Cui and
+               Jiwei Yan and
+               Xutong Ma and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android},
+  booktitle = {Proceedings of the 28th {ACM} {SIGSOFT} International Symposium on Software Testing and Analysis, {ISSTA} 2019, Beijing, China, July 15-19, 2019},
+  pages     = {394--397},
+  year      = {2019},
+  crossref  = {DBLP:conf/issta/2019},
+  url       = {https://doi.org/10.1145/3293882.3339001},
+  doi       = {10.1145/3293882.3339001},
+}

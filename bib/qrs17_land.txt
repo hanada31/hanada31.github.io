@@ -1,0 +1,13 @@
+@inproceedings{qrs17_land,
+  author    = {Jiwei Yan and
+               Tianyong Wu and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Widget-Sensitive and Back-Stack-Aware {GUI} Exploration for Testing Android Apps},
+  booktitle = {2017 {IEEE} International Conference on Software Quality, Reliability and Security, {QRS} 2017, Prague, Czech Republic, July 25-29, 2017},
+  pages     = {42--53},
+  year      = {2017},
+  crossref  = {DBLP:conf/qrs/2017},
+  url       = {https://doi.org/10.1109/QRS.2017.14},
+  doi       = {10.1109/QRS.2017.14},
+}

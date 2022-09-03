@@ -1,0 +1,14 @@
+@inproceedings{qrs21scala,
+  author    = {Xin Zhang and
+               Jiwei Yan and
+               Baoquan Cui and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Are the Scala Checks Effective? Evaluating Checks with Real-world
+               Projects},
+  booktitle = {21st {IEEE} International Conference on Software Quality, Reliability
+               and Security, {QRS} 2021, Hainan, China, December 6-10, 2021},
+  pages     = {978--989},
+  publisher = {{IEEE}},
+  year      = {2021},
+}

@@ -1,0 +1,15 @@
+@inproceedings{ase18_misexpose,
+  author    = {Jiwei Yan and
+               Xi Deng and
+               Ping Wang and
+               Tianyong Wu and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Characterizing and identifying misexposed activities in Android applications},
+  booktitle = {Proceedings of the 33rd {ACM/IEEE} International Conference on Automated Software Engineering, {ASE} 2018, Montpellier, France, September 3-7, 2018},
+  pages     = {691--701},
+  year      = {2018},
+  crossref  = {DBLP:conf/kbse/2018},
+  url       = {https://doi.org/10.1145/3238147.3238164},
+  doi       = {10.1145/3238147.3238164},
+}

@@ -1,4 +1,15 @@
-@inproceedings{DBLP:conf/wcre/ZhangYYCYZ22,
+@inproceedings{icse22_iccbot,
+  author    = {Jiwei Yan and
+               Shixin Zhang and
+	       Yepang Liu and
+               Jun Yan and
+               Jian Zhang},
+  title     = {ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for {Android} Applications},
+  booktitle = {The 44th International Conference on Software Engineering, {ICSE} 2022 (Demo Track)},
+  year      = {2022},
+}
+
+@inproceedings{saner22_execpy,
   author    = {Xin Zhang and
                Rongjie Yan and
                Jiwei Yan and
@@ -13,18 +24,7 @@
   year      = {2022},
 }
 
-@inproceedings{icse22_iccbot,
-  author    = {Jiwei Yan and
-               Shixin Zhang and
-	       Yepang Liu and
-               Jun Yan and
-               Jian Zhang},
-  title     = {ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for {Android} Applications},
-  booktitle = {The 44th International Conference on Software Engineering, {ICSE} 2022 (Demo Track)},
-  year      = {2022},
-}
-
-@inproceedings{DBLP:conf/qrs/ZhangYCYZ21,
+@inproceedings{qrs21scala,
   author    = {Xin Zhang and
                Jiwei Yan and
                Baoquan Cui and

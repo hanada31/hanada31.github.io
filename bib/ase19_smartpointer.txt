@@ -1,0 +1,14 @@
+@inproceedings{ase19_smartpointer,
+  author    = {Xutong Ma and
+               Jiwei Yan and
+               Yaqi Li and
+               Jun Yan and
+               Jian Zhang},
+  title     = {SPrinter: {A} Static Checker for Finding Smart Pointer Errors in {C++} Programs},
+  booktitle = {34th {IEEE/ACM} International Conference on Automated Software Engineering, {ASE} 2019, San Diego, CA, USA, November 11-15, 2019},
+  pages     = {1122--1125},
+  year      = {2019},
+  crossref  = {DBLP:conf/kbse/2019},
+  url       = {https://doi.org/10.1109/ASE.2019.00117},
+  doi       = {10.1109/ASE.2019.00117},
+}

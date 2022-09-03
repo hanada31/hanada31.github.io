@@ -1,0 +1,13 @@
+@inproceedings{qrs19_report,
+  author    = {Xutong Ma and
+               Jiwei Yan and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Reorganizing and Optimizing Post-Inspection on Suspicious Bug Reports in Path-Sensitive Analysis},
+  booktitle = {19th {IEEE} International Conference on Software Quality, Reliability and Security, {QRS} 2019, Sofia, Bulgaria, July 22-26, 2019},
+  pages     = {260--271},
+  year      = {2019},
+  crossref  = {DBLP:conf/qrs/2019},
+  url       = {https://doi.org/10.1109/QRS.2019.00042},
+  doi       = {10.1109/QRS.2019.00042},
+}

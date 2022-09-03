@@ -1,0 +1,14 @@
+@inproceedings{tase19_ineffective,
+  author    = {Ping Wang and
+               Jiwei Yan and
+               Xi Deng and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Understanding Ineffective Events and Reducing Test Sequences for Android Applications},
+  booktitle = {2019 International Symposium on Theoretical Aspects of Software Engineering, {TASE} 2019, Guilin, China, July 29-31, 2019},
+  pages     = {264--272},
+  year      = {2019},
+  crossref  = {DBLP:conf/tase/2019},
+  url       = {https://doi.org/10.1109/TASE.2019.00012},
+  doi       = {10.1109/TASE.2019.00012},
+}

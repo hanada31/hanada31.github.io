@@ -1,0 +1,10 @@
+@inproceedings{issre22StrTestGen,
+  author    = {Miaomiao Wang and
+			   Baoquan Cui and
+			   Jiwei Yan and
+               Jun Yan and
+               Jian Zhang},
+  title     = {String Test Data Generation for Java Programs},
+  booktitle = {The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE, 2022},
+  year      = {2022},
+}

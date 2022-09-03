@@ -1,0 +1,14 @@
+@article{scp18_energy,
+  author    = {Yan Hu and
+               Jiwei Yan and
+               Dong Yan and
+               Qiong Lu and
+               Jun Yan},
+  title     = {Lightweight energy consumption analysis and prediction for Android applications},
+  journal   = {Sci. Comput. Program.},
+  volume    = {162},
+  pages     = {132--147},
+  year      = {2018},
+  url       = {https://doi.org/10.1016/j.scico.2017.05.002},
+  doi       = {10.1016/j.scico.2017.05.002},
+}

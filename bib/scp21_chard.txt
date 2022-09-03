@@ -1,0 +1,14 @@
+@article{scp21_chard,
+  author    = {Jiwei Yan and
+               Hao Zhou and
+               Xi Deng and
+               Ping Wang and
+               Rongjie Yan and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Efficient testing of {GUI} applications by event sequence reduction},
+  journal   = {Sci. Comput. Program.},
+  volume    = {201},
+  pages     = {102522},
+  year      = {2021},
+}

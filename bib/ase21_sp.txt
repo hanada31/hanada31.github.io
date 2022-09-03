@@ -1,0 +1,15 @@
+@inproceedings{ase21_sp,
+  author    = {Xutong Ma and
+               Jiwei Yan and
+               Wei Wang and
+               Jun Yan and
+               Jian Zhang and
+               Zongyan Qiu},
+  title     = {Detecting Memory-Related Bugs by Tracking Heap Memory Management of
+               {C++} Smart Pointers},
+  booktitle = {36th {IEEE/ACM} International Conference on Automated Software Engineering,
+               {ASE} 2021, Melbourne, Australia, November 15-19, 2021},
+  pages     = {880--891},
+  publisher = {{IEEE}},
+  year      = {2021},
+}

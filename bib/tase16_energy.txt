@@ -1,0 +1,15 @@
+@inproceedings{tase16_energy,
+  author    = {Qiong Lu and
+               Tianyong Wu and
+               Jiwei Yan and
+               Jun Yan and
+               Feifei Ma and
+               Fan Zhang},
+  title     = {Lightweight Method-Level Energy Consumption Estimation for Android Applications},
+  booktitle = {10th International Symposium on Theoretical Aspects of Software Engineering,{TASE} 2016, Shanghai, China, July 17-19, 2016},
+  pages     = {144--151},
+  year      = {2016},
+  crossref  = {DBLP:conf/tase/2016},
+  url       = {https://doi.org/10.1109/TASE.2016.27},
+  doi       = {10.1109/TASE.2016.27},
+}
