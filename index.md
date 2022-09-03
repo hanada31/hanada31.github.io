@@ -40,13 +40,13 @@ My current work focuses on the multiple entry testing of Android apps.
 ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
 **A Comprehensive Evaluation of Android ICC Resolution Techniques.**
 The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
-[[pdf]](pdf/ase22ICCEvaluation.pdf) [[bibTex]](bib/ase22ICCEvaluation.txt)
+[[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt)
 
 * \[**ISSRE 2022**\] 
 Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
 **String Test Data Generation for Java Programs**
 The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE 2022.
-[[pdf]](pdf/issre22StrTestGen.pdf) [[bibTex]](bib/issre22StrTestGen.txt)
+[[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
 
 * \[**ICSE 2022**\] 
 ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
@@ -58,14 +58,14 @@ The 44th International Conference on Software Engineering, ICSE 2022, Tool Track
 Xin Zhang, Rongjie Yan, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
 **EXCEPY: A Python Benchmark for Bugs with Python Built-in Types.**
 IEEE International Conference on Software Analysis, Evolution, and Reengineering, SANER 2022.
-[[pdf]](pdf/saner22excepy.pdf) [[bibTex]](bib/saner22excepy.txt)
+[[pdf]](pdf/saner22_excepy.pdf) [[bibTex]](bib/saner22_excepy.txt)
 
 ### 2021
 * \[**QRS 2021**\] 
 Xin Zhang, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
 **Are the Scala Checks Effective? Evaluating Checks with Real-world Projects.**
 The 21st IEEE International Conference on Software Quality, Reliability, and Security, QRS 2021. 
-[[pdf]](pdf/qrs21scala.pdf) [[bibTex]](bib/qrs21scala.txt)
+[[pdf]](pdf/qrs21_scala.pdf) [[bibTex]](bib/qrs21_scala.txt)
 
 * \[**ASE 2021**\] 
 Xutong Ma, ***Jiwei Yan***, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
