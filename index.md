@@ -1,8 +1,9 @@
 <body>
 
-<div style="float:right;width:200px">
-<img src="myPic.png">
+<div style="float:right;width:150px">
+<img src="myPic.jpg">
 </div>
+
 </body>
 
 
