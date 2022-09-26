@@ -1,7 +1,7 @@
 <body>
 
-<div style="float:right;width:150px">
-<img src="myPic.jpg" width=150px height=200px>
+<div style="float:right;width:120px">
+<img src="myPic.jpg" width=120px height=160px>
 </div>
 
 </body>
