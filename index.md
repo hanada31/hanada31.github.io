@@ -37,33 +37,28 @@ My research interests include software analysis and testing, especially on mobil
 
 ### 2023
 
-* [**ICSE2023**\] 
-  ***Jiwei Yan***, Miaomiao Wang, Yepang Liu, Jun Yan, Long Zhang.
-  **Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set.** 
-
-  The 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023.
-  [[pdf]](pdf/icse23_crashtracker.pdf) [[bibTex]](bib/icse23_crashtracker.txt) [[CrashTracker Tool]](https://github.com/hanada31/CrashTracker)
+* \[**ICSE2023**\] 
+***Jiwei Yan***, Miaomiao Wang, Yepang Liu, Jun Yan, Long Zhang.
+**Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set.** 
+The 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023. 
+[[pdf]](pdf/icse23_crashtracker.pdf) [[bibTex]](bib/icse23_crashtracker.txt) [[CrashTracker Tool]](https://github.com/hanada31/CrashTracker)
 
 ### 2022
 
 * \[**ASE 2022**\] 
-  ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
-  **A Comprehensive Evaluation of Android ICC Resolution Techniques.**
-The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
-  [[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
-  
+***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
+**A Comprehensive Evaluation of Android ICC Resolution Techniques.** The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
+[[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
 * \[**ISSRE 2022**\] 
 Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
 **String Test Data Generation for Java Programs**
 The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE 2022.
 [[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
-
 * \[**ICSE 2022**\] 
 ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
 **ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for Android Applications.**
 The 44th International Conference on Software Engineering, ICSE 2022, Tool Track.
 [[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/icse22_iccbot.txt)[[ICCBot Tool]](https://github.com/hanada31/ICCBot)
-
 * \[**SANER 2022**\] 
 Xin Zhang, Rongjie Yan, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
 **EXCEPY: A Python Benchmark for Bugs with Python Built-in Types.**
