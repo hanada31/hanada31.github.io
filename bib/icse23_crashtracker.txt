@@ -1,0 +1,10 @@
+@inproceedings{icse23_crashtracker,
+  author    = {Jiwei Yan and
+               Miaomiao Wang and
+               Yepang Liu and
+               Jun Yan and
+               Long Zhang},
+  title     = {Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set},
+  booktitle = {The 45th IEEE/ACM International Conference on Software Engineering, {ICSE} 2023},
+  year      = {2023},
+}

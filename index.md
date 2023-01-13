@@ -20,9 +20,9 @@ Email: yanjw(AT)ios.ac.cn
 Research interests: Program Analysis, Software Testing, and Mobile Applications
 
 ## Short Bio
-I am a Ph.D. student as well as an assistant engineer at ISCAS, under the supervision of Prof. Jian Zhang and Prof. Jun Yan.
+I am a Ph.D. student as well as an engineer at ISCAS, under the supervision of Prof. Jian Zhang and Prof. Jun Yan.
 My research interests include software analysis and testing, especially on mobile apps. 
-My current work focuses on the multiple entry testing of Android apps.
+
 
 ## Education
 * Sep 2019 - Now, PhD student. in Computer Science, Chinese Academy of Sciences
@@ -35,14 +35,23 @@ My current work focuses on the multiple entry testing of Android apps.
 
 ## Publications
 
+### 2023
+
+* [**ICSE2023**\] 
+  ***Jiwei Yan***, Miaomiao Wang, Yepang Liu, Jun Yan, Long Zhang.
+  **Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set.** 
+
+  The 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023.
+  [[pdf]](pdf/icse23_crashtracker.pdf) [[bibTex]](bib/icse23_crashtracker.txt) [[CrashTracker Tool]](https://github.com/hanada31/CrashTracker)
+
 ### 2022
 
 * \[**ASE 2022**\] 
-***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
-**A Comprehensive Evaluation of Android ICC Resolution Techniques.**
+  ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
+  **A Comprehensive Evaluation of Android ICC Resolution Techniques.**
 The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
-[[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[website]](https://iccviewer.ldby.site/ICCViewer/)
-
+  [[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
+  
 * \[**ISSRE 2022**\] 
 Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
 **String Test Data Generation for Java Programs**
@@ -53,7 +62,7 @@ The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE
 ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
 **ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for Android Applications.**
 The 44th International Conference on Software Engineering, ICSE 2022, Tool Track.
-[[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/icse22_iccbot.txt)
+[[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/icse22_iccbot.txt)[[ICCBot Tool]](https://github.com/hanada31/ICCBot)
 
 * \[**SANER 2022**\] 
 Xin Zhang, Rongjie Yan, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
@@ -84,7 +93,7 @@ Science of Computer Programming, SCP, 201: 102522 (2021)
 * \[**ICSE 2020**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang. 
 **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
 The 42nd International Conference on Software Engineering, ICSE 2020.
-[[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/icse20_fax.txt)
+[[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/icse20_fax.txt)[[FaxTool]](https://github.com/hanada31/Fax)
 
 * \[**ESEC/FSE 2020**\] Linjie Pan, Baoquan Cui, Hao Liu, ***Jiwei Yan***, Siqi Wang, Jun Yan, Jian Zhang. 
 **Static Asynchronous Component Misuse Detection for Android Applications.**
@@ -158,4 +167,4 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering,
 * National Scholarship for Ph.D. Students (2020)
 
 ## Service
-* Reviewer of: APSEC'20, Frontiers of Computer Science, MobileSoft'22
+* Reviewer of: APSEC'20, Frontiers of Computer Science, MobileSoft'22,23
