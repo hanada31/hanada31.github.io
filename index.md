@@ -11,22 +11,17 @@
 
 **Jiwei Yan 燕季薇**
 
-Assistant Professor (Engineer) at Technology Center of Software Engineering, ISCAS
-
-Get Ph.D in Software Engineering from Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)), Beijing, China (2019-2023), and was surpervised by  [Prof. Jian Zhang](http://lcs.ios.ac.cn/~zj/) and  [Prof. Jun Yan](http://lcs.ios.ac.cn/~yanjun/). 
+Assistant Professor at Technology Center of Software Engineering, [Institute of Software, CAS.](http://www.iscas.ac.cn/)
 
 Email: yanjiwei(AT)otcaix.iscas.ac.cn
 
 Research interests: Program Analysis, Software Testing, and Mobile Applications
 
 
-
-
 ## Education
-* Sep 2019 - Jun 2023, PhD in Computer Science, Chinese Academy of Sciences
-* Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences
+* Sep 2019 - Jun 2023, Ph.D. in Computer Science, Chinese Academy of Sciences, surpervised by [Prof. Jun Yan](http://lcs.ios.ac.cn/~yanjun/)
+* Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences, surpervised by [Prof. Jian Zhang](http://lcs.ios.ac.cn/~zj/)
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
-* 
 
 ## News
 
