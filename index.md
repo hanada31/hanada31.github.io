@@ -13,7 +13,7 @@
 
 Assistant Professor (Engineer) at Technology Center of Software Engineering, ISCAS
 
-Get Ph.D in computer science from Ph.D. at Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)), Beijing, China (2019-2023), and was surpervised by Prof. Jian Zhang(http://lcs.ios.ac.cn/~zj/) and Prof. Jun Yan(http://lcs.ios.ac.cn/~yanjun/). 
+Get Ph.D in Software Engineering from Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)), Beijing, China (2019-2023), and was surpervised by  [Prof. Jian Zhang](http://lcs.ios.ac.cn/~zj/) and  [Prof. Jun Yan](http://lcs.ios.ac.cn/~yanjun/). 
 
 Email: yanjiwei(AT)otcaix.iscas.ac.cn
 
