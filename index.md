@@ -11,33 +11,39 @@
 
 **Jiwei Yan 燕季薇**
 
-PhD student at Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/))
+Assistant Professor (Engineer) at Technology Center of Software Engineering, ISCAS
 
-Engineer at Technology Center of Software Engineering, ISCAS
+Get Ph.D in computer science from Ph.D. at Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.iscas.ac.cn/)), Beijing, China (2019-2023), and was surpervised by Prof. Jian Zhang(http://lcs.ios.ac.cn/~zj/) and Prof. Jun Yan(http://lcs.ios.ac.cn/~yanjun/). 
 
-Email: yanjw(AT)ios.ac.cn
+Email: yanjiwei(AT)otcaix.iscas.ac.cn
 
 Research interests: Program Analysis, Software Testing, and Mobile Applications
 
-## Short Bio
-I am a Ph.D. student as well as an engineer at ISCAS, under the supervision of Prof. Jian Zhang and Prof. Jun Yan.
-My research interests include software analysis and testing, especially on mobile apps. 
+
 
 
 ## Education
-* Sep 2019 - Now, PhD student. in Computer Science, Chinese Academy of Sciences
-
+* Sep 2019 - Jun 2023, PhD in Computer Science, Chinese Academy of Sciences
 * Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences
-
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
+* 
 
+## News
 
+June 2023: One paper "Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting" was accepted to Journal of Systems & Software!
+
+May 2023: I was invited to serve as PC member for ISSTA 2024 (Research Track).
 
 ## Publications
 
 ### 2023
+* \[**JSS 2023**\] 
+Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
+**Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting.** 
+Journal of Systems & Software. (Accepted)
 
-* \[**ICSE2023**\] 
+
+* \[**ICSE 2023**\] 
 ***Jiwei Yan***, Miaomiao Wang, Yepang Liu, Jun Yan, Long Zhang.
 **Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set.** 
 The 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023. 
@@ -51,7 +57,7 @@ The 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023.
 [[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
 * \[**ISSRE 2022**\] 
 Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
-**String Test Data Generation for Java Programs**
+**String Test Data Generation for Java Programs.**
 The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE 2022.
 [[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
 * \[**ICSE 2022**\] 
@@ -157,9 +163,12 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering,
 \# Corresponding author
 
 ## Selected Honors
+* Outstanding Graduate of University of Chinese Academy of Sciences (2023)
+* ISCAS Excellent Youth Fund (2022)
 * First-class academic scholarship (2021)
 * First-class academic scholarship (2020)
 * National Scholarship for Ph.D. Students (2020)
 
 ## Service
-* Reviewer of: APSEC'20, Frontiers of Computer Science, MobileSoft'22,23
+* PC Member of MobileSoft'22,23, ISSTA'24.
+* Reviewer of  ICSE, FSE, ISSRE, Frontiers of Computer Science, etc.
