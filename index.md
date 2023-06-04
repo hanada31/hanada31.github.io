@@ -19,15 +19,15 @@ Research interests: Program Analysis, Software Testing, and Mobile Applications
 
 
 ## Education
-* Sep 2019 - Jun 2023, Ph.D. in Computer Science, Chinese Academy of Sciences, surpervised by [Prof. Jun Yan](http://lcs.ios.ac.cn/~yanjun/)
-* Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences, surpervised by [Prof. Jian Zhang](http://lcs.ios.ac.cn/~zj/)
+* Sep 2019 - Jun 2023, Ph.D. in Computer Science, Chinese Academy of Sciences, supervised by [Prof. Jun Yan](http://lcs.ios.ac.cn/~yanjun/)
+* Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences, supervised by [Prof. Jian Zhang](http://lcs.ios.ac.cn/~zj/)
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
 
 ## News
 
-June 2023: One paper "Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting" was accepted to Journal of Systems & Software!
+June 2023: Our paper entitled "Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting" was accepted to Journal of Systems & Software!
 
-May 2023: I was invited to serve as PC member for ISSTA 2024 (Research Track).
+May 2023: I was invited to serve as a PC member for ISSTA 2024 (Research Track).
 
 ## Publications
 
