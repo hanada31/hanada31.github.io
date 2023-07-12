@@ -1,7 +1,7 @@
 <body>
 
-<div style="float:right;width:120px">
-<img src="myPic.jpg" width=120px height=160px>
+<div style="float:right;width:124px">
+<img src="myPic2.jpg" width=124px height=160px>
 </div>
 
 </body>
@@ -26,9 +26,12 @@ Research interests: Program Analysis, Software Testing, and Mobile Applications
 * Sep 2019 - Jun 2023, PhD in Computer Science, Chinese Academy of Sciences
 * Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
-* 
+
+  
 
 ## News
+
+July 2023: One paper "ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps" was accepted to ASE 2023 Tool Track!
 
 June 2023: One paper "Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting" was accepted to Journal of Systems & Software!
 
@@ -37,6 +40,12 @@ May 2023: I was invited to serve as PC member for ISSTA 2024 (Research Track).
 ## Publications
 
 ### 2023
+* \[**ASE 2023**\] 
+Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
+**ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
+the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track.  (Accepted)
+[[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
+
 * \[**JSS 2023**\] 
 Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
 **Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting.** 
@@ -163,7 +172,9 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering,
 \# Corresponding author
 
 ## Selected Honors
+* President Award of Chinese Academy of Sciences (2023)
 * Outstanding Graduate of University of Chinese Academy of Sciences (2023)
+* Outstanding Graduate of University of Beijing Shi (2023)
 * ISCAS Excellent Youth Fund (2022)
 * First-class academic scholarship (2021)
 * First-class academic scholarship (2020)
@@ -171,4 +182,4 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering,
 
 ## Service
 * PC Member of MobileSoft'22,23, ISSTA'24.
-* Reviewer of  ICSE, FSE, ISSRE, Frontiers of Computer Science, etc.
+* Reviewer of  ICSE, FSE, TDSC, ISSRE, Frontiers of Computer Science, etc.
