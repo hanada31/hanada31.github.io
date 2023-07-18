@@ -26,9 +26,11 @@ Research interests: Program Analysis, Software Testing, and Mobile Applications
 
 ## News
 
-July 2023: One paper "ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps" was accepted to ASE 2023 Tool Track!
+July 2023: Two paper were accepted to ASE 2023!
 
-June 2023: Our paper entitled "Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting" was accepted to Journal of Systems & Software!
+July 2023: One paper was accepted to ASE 2023 Tool Track!
+
+June 2023: Our paper was accepted to Journal of Systems & Software!
 
 May 2023: I was invited to serve as a PC member for ISSTA 2024 (Research Track).
 
@@ -36,15 +38,22 @@ May 2023: I was invited to serve as a PC member for ISSTA 2024 (Research Track).
 
 ### 2023
 * \[**ASE 2023**\] 
+  Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
+  **Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count.** 
+  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  
+* \[**ASE 2023**\] 
+  Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
+  **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
+  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  
+* \[**ASE 2023**\] 
 Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
 **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
-the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track.  (Accepted)
+the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. 
 [[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
-
 * \[**JSS 2023**\] 
 Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
 **Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting.** 
-Journal of Systems & Software. (Accepted)
+Journal of Systems & Software, JSS 2023.
 
 
 * \[**ICSE 2023**\] 
@@ -56,19 +65,24 @@ The 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023.
 ### 2022
 
 * \[**ASE 2022**\] 
-***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
-**A Comprehensive Evaluation of Android ICC Resolution Techniques.** The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
-[[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
+  ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
+  **A Comprehensive Evaluation of Android ICC Resolution Techniques.** 
+
+  The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
+  [[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
+
 * \[**ISSRE 2022**\] 
-Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
-**String Test Data Generation for Java Programs.**
-The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE 2022.
-[[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
+  Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
+  **String Test Data Generation for Java Programs.**
+  The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE 2022.
+  [[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
+
 * \[**ICSE 2022**\] 
-***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
-**ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for Android Applications.**
-The 44th International Conference on Software Engineering, ICSE 2022, Tool Track.
-[[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/icse22_iccbot.txt)[[ICCBot Tool]](https://github.com/hanada31/ICCBot)
+  ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
+  **ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for Android Applications.**
+  The 44th International Conference on Software Engineering, ICSE 2022, Tool Track.
+  [[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/icse22_iccbot.txt)[[ICCBot Tool]](https://github.com/hanada31/ICCBot)
+
 * \[**SANER 2022**\] 
 Xin Zhang, Rongjie Yan, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
 **EXCEPY: A Python Benchmark for Bugs with Python Built-in Types.**
@@ -169,7 +183,7 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering,
 ## Selected Honors
 * President Award of Chinese Academy of Sciences (2023)
 * Outstanding Graduate of University of Chinese Academy of Sciences (2023)
-* Outstanding Graduate of University of Beijing Shi (2023)
+* Outstanding Graduates of Beijing City (2023)
 * ISCAS Excellent Youth Fund (2022)
 * First-class academic scholarship (2021)
 * First-class academic scholarship (2020)
