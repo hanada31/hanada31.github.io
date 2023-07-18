@@ -34,7 +34,9 @@ June 2023: Our paper was accepted to Journal of Systems & Software!
 
 May 2023: I was invited to serve as a PC member for ISSTA 2024 (Research Track).
 
-## Publications
+## Publications 
+
+\# for corresponding author
 
 ### 2023
 * \[**ASE 2023**\] 
@@ -43,7 +45,7 @@ May 2023: I was invited to serve as a PC member for ISSTA 2024 (Research Track).
   the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  
 * \[**ASE 2023**\] 
   Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
-  **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
+  **Detection of Java Basic Thread Misuses Based on Static Event Analysis.** 
   the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  
 * \[**ASE 2023**\] 
 Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
@@ -177,8 +179,6 @@ The 17th International Conference on Software Quality, Reliability and Security,
 **Lightweight Method-Level Energy Consumption Estimation for Android Applications.**
 The 10th International Symposium on Theoretical Aspects of Software Engineering, TASE 2016.
 [[pdf]](pdf/tase16_energy.pdf) [[bibTex]](bib/tase16_energy.txt)
-
-\# Corresponding author
 
 ## Selected Honors
 * President Award of Chinese Academy of Sciences (2023)
