@@ -15,47 +15,59 @@ Assistant Professor at Technology Center of Software Engineering, [Institute of 
 
 Email: yanjiwei(AT)otcaix.iscas.ac.cn
 
-Research interests: Program Analysis, Software Testing, and Mobile Applications
+Research interests: Program Analysis, Software Testing, Mobile Applications, LLM4SE.
 
 
 ## Education
-* Sep 2019 - Jun 2023, Ph.D. in Computer Science, Chinese Academy of Sciences, supervised by [Prof. Jun Yan](http://lcs.ios.ac.cn/~yanjun/)
-* Sep 2014 - Jun 2017, M.Eng. in Computer Science, Chinese Academy of Sciences, supervised by [Prof. Jian Zhang](http://lcs.ios.ac.cn/~zj/)
+* Sep 2019 - Jun 2023, Ph.D. in Computer Science, University of Chinese Academy of Sciences, supervised by [Prof. Jun Yan](http://lcs.ios.ac.cn/~yanjun/)
+* Sep 2014 - Jun 2017, M.Eng. in Computer Science, University of Chinese Academy of Sciences, supervised by [Prof. Jian Zhang](http://lcs.ios.ac.cn/~zj/)
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
   
 
 ## News
 
-July 2023: Two paper were accepted to ASE 2023!
+July 2024: One paper was accepted to ISSTA 2024
 
-July 2023: One paper was accepted to ASE 2023 Tool Track!
+June 2024: One paper was accepted to the Chinese Journal of Computer （计算机学报）
 
-June 2023: Our paper was accepted to Journal of Systems & Software!
-
-May 2023: I was invited to serve as a PC member for ISSTA 2024 (Research Track).
+May 2024: I was invited to serve as a PC member for ISSTA 2025 (Research Track)
 
 ## Publications 
 
-\# for corresponding author
+\# for the corresponding author
+
+### 2024
+* \[**ISSTA 2024**\] 
+  Yakun Zhang, Qihao Zhu, ***Jiwei Yan***, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang.
+  **Synthesis-based Enhancement for GUI Test Case Migration.** 
+  The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024.
+
+* \[**计算机学报**\] 
+  ***Jiwei Yan***, Jinhao Huang, Hengqin Yang, Jun Yan.
+  **异常信息敏感的框架API生命周期模型构造.** [[pdf]](pdf/ict24_exception.pdf)
+  计算机学报 2024.
 
 ### 2023
 * \[**ASE 2023**\] 
   Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
   **Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count.** 
-  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  
+  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  [[pdf]](pdf/ase23_pythonNative.pdf)
+  
 * \[**ASE 2023**\] 
   Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
   **Detection of Java Basic Thread Misuses Based on Static Event Analysis.** 
-  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  
+  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [[pdf]](pdf/ase23_javaThread.pdf)
+  
 * \[**ASE 2023**\] 
 Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
 **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
-the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. 
+the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. [[pdf]](pdf/ase23_ictDroid.pdf)
 [[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
+
 * \[**JSS 2023**\] 
 Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
 **Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting.** 
-Journal of Systems & Software, JSS 2023.
+Journal of Systems & Software, JSS 2023. [[pdf]](pdf/jss23_misexpose.pdf)
 
 
 * \[**ICSE 2023**\] 
@@ -181,8 +193,9 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering,
 [[pdf]](pdf/tase16_energy.pdf) [[bibTex]](bib/tase16_energy.txt)
 
 ## Selected Honors
+* 入选 CCF 软件工程专委会优秀博士论文激励计划 (2023)
 * President Award of Chinese Academy of Sciences (2023)
-* Outstanding Graduate of University of Chinese Academy of Sciences (2023)
+* Outstanding Graduate of the University of Chinese Academy of Sciences (2023)
 * Outstanding Graduates of Beijing City (2023)
 * ISCAS Excellent Youth Fund (2022)
 * First-class academic scholarship (2021)
@@ -190,5 +203,5 @@ The 10th International Symposium on Theoretical Aspects of Software Engineering,
 * National Scholarship for Ph.D. Students (2020)
 
 ## Service
-* PC Member of MobileSoft'22,23, ISSTA'24.
+* PC Member of MobileSoft'22/23, ISSTA'24/25.
 * Reviewer of  ICSE, FSE, TDSC, ISSRE, Frontiers of Computer Science, etc.
