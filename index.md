@@ -41,33 +41,36 @@ May 2024: I was invited to serve as a PC member for ISSTA 2025 (Research Track)
   Yakun Zhang, Qihao Zhu, ***Jiwei Yan***, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang.
   **Synthesis-based Enhancement for GUI Test Case Migration.** 
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024.
-
 * \[**计算机学报**\] 
-  ***Jiwei Yan***, Jinhao Huang, Hengqin Yang, Jun Yan.
-  **异常信息敏感的框架API生命周期模型构造.** [[pdf]](pdf/ict24_exception.pdf)
-  计算机学报 2024.
+  ***Jiwei Yan***, Jinhao Huang, Hengqin Yang, Jun Yan. 
+  **异常信息敏感的框架API生命周期模型构造.**   
+  计算机学报 2024.   
+  [[pdf]](pdf/ict24_exception.pdf)
 
 ### 2023
 * \[**ASE 2023**\] 
   Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
   **Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count.** 
-  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  [[pdf]](pdf/ase23_pythonNative.pdf)
+  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. 
+  [[pdf]](pdf/ase23_pythonNative.pdf)  [[bibTex]](bib/ase23_pythonNative.txt)
   
 * \[**ASE 2023**\] 
   Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
   **Detection of Java Basic Thread Misuses Based on Static Event Analysis.** 
-  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [[pdf]](pdf/ase23_javaThread.pdf)
+  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. 
+  [[pdf]](pdf/ase23_javaThread.pdf)  [[bibTex]](bib/ase23_javaThread.txt)
   
 * \[**ASE 2023**\] 
 Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
 **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
-the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. [[pdf]](pdf/ase23_ictDroid.pdf)
-[[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
+the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track.
+[[pdf]](pdf/ase23_ictDroid.pdf)  [[bibTex]](bib/ase23_ictDroid.txt) [[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
 
 * \[**JSS 2023**\] 
 Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
 **Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting.** 
-Journal of Systems & Software, JSS 2023. [[pdf]](pdf/jss23_misexpose.pdf)
+Journal of Systems & Software, JSS 2023. 
+[[pdf]](pdf/jss23_misexpose.pdf)  [[bibTex]](bib/jss23_misexpose.txt)
 
 
 * \[**ICSE 2023**\] 
