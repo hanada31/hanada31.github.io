@@ -39,7 +39,7 @@ May 2024: I was invited to serve as a PC member for ISSTA 2025 (Research Track)
 ### 2024
 
 * \[**ISSRE 2024**\] 
-  Jun Liu, ***Jiwei Yan***, Yuanyuan Xie, Jun Yan, Jian Zhang. 
+  Jun Liu, ***Jiwei Yan#***, Yuanyuan Xie, Jun Yan, Jian Zhang. 
   **Fix the tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker.** 
   The 35th International Symposium on Software Reliability Engineering, ISSRE 2024. 
 
@@ -49,7 +49,7 @@ May 2024: I was invited to serve as a PC member for ISSTA 2025 (Research Track)
     The joint ISSTA/ECOOP 2024 Tool Demonstrations Track.
 
 * \[**ISSTA/ECOOP 2024**\] 
-    Baoquan Cui, ***Jiwei Yan***, Jian Zhang.
+    Baoquan Cui, ***Jiwei Yan#***, Jian Zhang.
     **DMMPP: Constructing Dummy Main Methods for Android Apps with Path-sensitive Predicates.** 
     The joint ISSTA/ECOOP 2024 Tool Demonstrations Track.
 
