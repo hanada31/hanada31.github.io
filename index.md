@@ -8,7 +8,7 @@
 
 **Jiwei Yan 燕季薇**
 
-Assistant Professor at Technology Center of Software Engineering, [Institute of Software, CAS.](http://www.iscas.ac.cn/)
+Associate Professor at Technology Center of Software Engineering, [Institute of Software, CAS.](http://www.iscas.ac.cn/)
 
 Email: yanjiwei(AT)otcaix.iscas.ac.cn
 
