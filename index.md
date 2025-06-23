@@ -34,13 +34,12 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 \# for the corresponding author
 
 ### 2026
-* \[**ICSE 2026**\] 
-  Yuanyuan Xie, Jun Liu, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
+* \[**ICSE 2026**\] Yuanyuan Xie, Jun Liu, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
   **Write Your Own CodeChecker: An Automated Test-Driven Checker Development Approach with LLMs.** 
   ICSE 2026. (accepted at the first round, 60/660) [[pdf]](https://arxiv.org/pdf/2411.06796) [[AutoChecker Demonstrate]](https://autochecker.maskeduser.party/)  
 
 ### 2025
-* \[**ICSME 2025 **\] Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang
+* \[**ICSME 2025**\] Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang
   **A Chopping-Based Approach for Debloating Android Applications.** 
   ICSME 2025. 
   
@@ -50,26 +49,22 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 
 ### 2024
 
-* \[**ISSRE 2024**\] 
-  Jun Liu, ***Jiwei Yan#***, Yuanyuan Xie, Jun Yan, Jian Zhang. 
+* \[**ISSRE 2024**\] Jun Liu, ***Jiwei Yan#***, Yuanyuan Xie, Jun Yan, Jian Zhang. 
   **Fix the tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker.**
   The 35th International Symposium on Software Reliability Engineering, ISSRE 2024.  [[pdf]](pdf/issre24_synter.pdf) [[SynTeR Tool]](https://github.com/SQUARE-RG/SynTeR)
-
-* \[**ISSTA/ECOOP 2024**\] 
-    Xutong Ma, ***Jiwei Yan***, Jun Yan, Jian Zhang.
+  
+* \[**ISSTA/ECOOP 2024**\] Xutong Ma, ***Jiwei Yan***, Jun Yan, Jian Zhang.
     **Panda: A Concurrent Scheduler for Compiler-Based Tools.** 
     The joint ISSTA/ECOOP 2024 Tool Demonstrations Track.[[pdf]](pdf/issta24_panda.pdf)
-
-* \[**ISSTA/ECOOP 2024**\] 
-    Baoquan Cui, ***Jiwei Yan#***, Jian Zhang.
+    
+* \[**ISSTA/ECOOP 2024**\] Baoquan Cui, ***Jiwei Yan#***, Jian Zhang.
     **DMMPP: Constructing Dummy Main Methods for Android Apps with Path-sensitive Predicates.** 
     The joint ISSTA/ECOOP 2024 Tool Demonstrations Track.[[pdf]](pdf/issta24_dmmpp.pdf)
-
-* \[**ISSTA 2024**\] 
-  Yakun Zhang, Qihao Zhu, ***Jiwei Yan***, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang.
+    
+* \[**ISSTA 2024**\] Yakun Zhang, Qihao Zhu, ***Jiwei Yan***, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang.
   **Synthesis-based Enhancement for GUI Test Case Migration.**
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024. [[pdf]](pdf/issta24_testMig.pdf)
-
+  
 * \[**计算机学报**\] 
   ***Jiwei Yan***, Jinhao Huang, Hengqin Yang, Jun Yan.
   **异常信息敏感的框架API生命周期模型构造.**
@@ -77,29 +72,24 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 
 ### 2023
 
-* \[**ASE 2023**\] 
-  Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
+* \[**ASE 2023**\] Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
   **Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count.** 
   The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  [[pdf]](pdf/ase23_pythonNative.pdf)
-
-* \[**ASE 2023**\] 
-  Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
+  
+* \[**ASE 2023**\] Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
   **Detection of Java Basic Thread Misuses Based on Static Event Analysis.** 
   The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [[pdf]](pdf/ase23_javaThread.pdf)
-
-* \[**ASE 2023**\] 
-  Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
+  
+* \[**ASE 2023**\] Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
   **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
   The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. [[pdf]](pdf/ase23_ictDroid.pdf)
   [[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
-
-* \[**JSS 2023**\] 
-  Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
+  
+* \[**JSS 2023**\] Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
   **Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting.** 
   Journal of Systems & Software, JSS 2023. [[pdf]](pdf/jss23_misexpose.pdf)
-
-* \[**ICSE 2023**\] 
-  ***Jiwei Yan***, Miaomiao Wang, Yepang Liu, Jun Yan, Long Zhang.
+  
+* \[**ICSE 2023**\] ***Jiwei Yan***, Miaomiao Wang, Yepang Liu, Jun Yan, Long Zhang.
   **Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set.** 
   The 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023. 
   [[pdf]](pdf/icse23_crashtracker.pdf) [[bibTex]](bib/icse23_crashtracker.txt) [[CrashTracker Tool]](https://github.com/hanada31/CrashTracker)[[Docker file]](https://hub.docker.com/repository/docker/hanada31/crash_tracker/general)
