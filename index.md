@@ -21,28 +21,35 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
 
 ## News
+**Jun 2025**: Our paper “Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs”  was accepted by ICSE 2026 in the first cycle (acceptance rate < 10%).  Try the playground of AutoChecker [at here :-)](https://autochecker.maskeduser.party/)
 
-Apr 2025: The tools developed by our research group are publicly available at [https://github.com/SQUARE-RG](https://github.com/SQUARE-RG)!
+**Jun 2025**: Our paper “A Chopping-Based Approach for Debloating Android Applications ” was accepted by ICSME 2025.
 
-Mar 2025: We developed a website for AutoChecker, by which you can write your own code checker with LLM. [Go there!](https://autochecker.maskeduser.party/)
+**Apr 2025**: The tools developed by our research group are publicly available at [https://github.com/SQUARE-RG](https://github.com/SQUARE-RG)!
+
+**Mar 2025**: We developed a website for AutoChecker, by which you can write your own code checker with LLM. [Go there!](https://autochecker.maskeduser.party/)
 
 ## Publications
 
 \# for the corresponding author
 
+### 2026
+* \[**ICSE 2026**\] 
+  Yuanyuan Xie, Jun Liu, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
+  **Write Your Own CodeChecker: An Automated Test-Driven Checker Development Approach with LLMs.** 
+  ICSE 2026. [[pdf]](https://arxiv.org/pdf/2411.06796) [[AutoChecker Demonstrate]](https://autochecker.maskeduser.party/)
+
 ### 2025
+* \[**ICSME 2025 **\] 
+  Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang
+  **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
+  ICSME 2025. 
+  
 * \[**Preprint**\] 
   Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
   **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
   Arxiv 2025. [[pdf]](https://arxiv.org/pdf/2504.07472) 
 
-* \[**Preprint**\] 
-  Yuanyuan Xie, Jun Liu, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
-  **Write Your Own CodeChecker: An Automated Test-Driven Checker Development Approach with LLMs.** 
-  Arxiv 2025. [[pdf]](pdf/https://arxiv.org/pdf/2411.06796) [[AutoChecker Demonstrate]](https://autochecker.maskeduser.party/)
-
-
-  
 ### 2024
 
 * \[**ISSRE 2024**\] 
