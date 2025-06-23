@@ -21,7 +21,7 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
 
 ## News
-**Jun 2025**: Our paper “Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs”  was accepted by ICSE 2026 in the first cycle (acceptance rate < 10%).  Try the playground of AutoChecker [at here :-)](https://autochecker.maskeduser.party/)
+**Jun 2025**: Our paper “Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs”  was accepted by ICSE 2026 at the first round (direct acceptance rate < 10%).  Try the playground of AutoChecker [at here :-)](https://autochecker.maskeduser.party/)
 
 **Jun 2025**: Our paper “A Chopping-Based Approach for Debloating Android Applications ” was accepted by ICSME 2025.
 
@@ -37,16 +37,14 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 * \[**ICSE 2026**\] 
   Yuanyuan Xie, Jun Liu, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
   **Write Your Own CodeChecker: An Automated Test-Driven Checker Development Approach with LLMs.** 
-  ICSE 2026. [[pdf]](https://arxiv.org/pdf/2411.06796) [[AutoChecker Demonstrate]](https://autochecker.maskeduser.party/)
+  ICSE 2026. (accepted at the first round, 60/660) [[pdf]](https://arxiv.org/pdf/2411.06796) [[AutoChecker Demonstrate]](https://autochecker.maskeduser.party/)  
 
 ### 2025
-* \[**ICSME 2025 **\] 
-  Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang
-  **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
+* \[**ICSME 2025 **\] Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang
+  **A Chopping-Based Approach for Debloating Android Applications.** 
   ICSME 2025. 
   
-* \[**Preprint**\] 
-  Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
+* \[**Preprint**\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
   **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
   Arxiv 2025. [[pdf]](https://arxiv.org/pdf/2504.07472) 
 
@@ -54,45 +52,45 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 
 * \[**ISSRE 2024**\] 
   Jun Liu, ***Jiwei Yan#***, Yuanyuan Xie, Jun Yan, Jian Zhang. 
-  **Fix the tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker.** [[pdf]](pdf/issre24_synter.pdf) [[SynTeR Tool]](https://github.com/SQUARE-RG/SynTeR)
-  The 35th International Symposium on Software Reliability Engineering, ISSRE 2024. 
+  **Fix the tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker.**
+  The 35th International Symposium on Software Reliability Engineering, ISSRE 2024.  [[pdf]](pdf/issre24_synter.pdf) [[SynTeR Tool]](https://github.com/SQUARE-RG/SynTeR)
 
 * \[**ISSTA/ECOOP 2024**\] 
     Xutong Ma, ***Jiwei Yan***, Jun Yan, Jian Zhang.
-    **Panda: A Concurrent Scheduler for Compiler-Based Tools.** [[pdf]](pdf/issta24_panda.pdf)
-    The joint ISSTA/ECOOP 2024 Tool Demonstrations Track.
+    **Panda: A Concurrent Scheduler for Compiler-Based Tools.** 
+    The joint ISSTA/ECOOP 2024 Tool Demonstrations Track.[[pdf]](pdf/issta24_panda.pdf)
 
 * \[**ISSTA/ECOOP 2024**\] 
     Baoquan Cui, ***Jiwei Yan#***, Jian Zhang.
-    **DMMPP: Constructing Dummy Main Methods for Android Apps with Path-sensitive Predicates.** [[pdf]](pdf/issta24_dmmpp.pdf)
-    The joint ISSTA/ECOOP 2024 Tool Demonstrations Track.
+    **DMMPP: Constructing Dummy Main Methods for Android Apps with Path-sensitive Predicates.** 
+    The joint ISSTA/ECOOP 2024 Tool Demonstrations Track.[[pdf]](pdf/issta24_dmmpp.pdf)
 
 * \[**ISSTA 2024**\] 
   Yakun Zhang, Qihao Zhu, ***Jiwei Yan***, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang.
-  **Synthesis-based Enhancement for GUI Test Case Migration.** [[pdf]](pdf/issta24_testMig.pdf)
-  The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024.
+  **Synthesis-based Enhancement for GUI Test Case Migration.**
+  The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024. [[pdf]](pdf/issta24_testMig.pdf)
 
 * \[**计算机学报**\] 
   ***Jiwei Yan***, Jinhao Huang, Hengqin Yang, Jun Yan.
-  **异常信息敏感的框架API生命周期模型构造.** [[pdf]](pdf/ict24_exception.pdf) [[JavaExP Tool]](https://github.com/SQUARE-RG/JavaExP)
-  计算机学报 2024.09.
+  **异常信息敏感的框架API生命周期模型构造.**
+  计算机学报 2024.09. [[pdf]](pdf/ict24_exception.pdf) [[JavaExP Tool]](https://github.com/SQUARE-RG/JavaExP)
 
 ### 2023
 
 * \[**ASE 2023**\] 
   Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
   **Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count.** 
-  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  [[pdf]](pdf/ase23_pythonNative.pdf)
+  The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  [[pdf]](pdf/ase23_pythonNative.pdf)
 
 * \[**ASE 2023**\] 
   Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
   **Detection of Java Basic Thread Misuses Based on Static Event Analysis.** 
-  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [[pdf]](pdf/ase23_javaThread.pdf)
+  The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [[pdf]](pdf/ase23_javaThread.pdf)
 
 * \[**ASE 2023**\] 
   Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
   **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
-  the 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. [[pdf]](pdf/ase23_ictDroid.pdf)
+  The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. [[pdf]](pdf/ase23_ictDroid.pdf)
   [[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
 
 * \[**JSS 2023**\] 
@@ -108,44 +106,38 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 
 ### 2022
 
-* \[**ASE 2022**\] 
-  ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
+* \[**ASE 2022**\] ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang.
   **A Comprehensive Evaluation of Android ICC Resolution Techniques.** 
   The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
   [[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
-
-* \[**ISSRE 2022**\] 
-  Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
+  
+* \[**ISSRE 2022**\] Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
   **String Test Data Generation for Java Programs.**
   The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE 2022.
   [[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
-
-* \[**ICSE 2022**\] 
-  ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
+  
+* \[**ICSE 2022**\] ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
   **ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for Android Applications.**
   The 44th International Conference on Software Engineering, ICSE 2022, Tool Track.
   [[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/icse22_iccbot.txt)[[ICCBot Tool]](https://github.com/hanada31/ICCBot)
-
-* \[**SANER 2022**\] 
-  Xin Zhang, Rongjie Yan, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
+  
+* \[**SANER 2022**\] Xin Zhang, Rongjie Yan, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
   **EXCEPY: A Python Benchmark for Bugs with Python Built-in Types.**
   IEEE International Conference on Software Analysis, Evolution, and Reengineering, SANER 2022.
   [[pdf]](pdf/saner22_excepy.pdf) [[bibTex]](bib/saner22_excepy.txt)
 
 ### 2021
 
-* \[**QRS 2021**\] 
-  Xin Zhang, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
+* \[**QRS 2021**\] Xin Zhang, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
   **Are the Scala Checks Effective? Evaluating Checks with Real-world Projects.**
   The 21st IEEE International Conference on Software Quality, Reliability, and Security, QRS 2021. 
   [[pdf]](pdf/qrs21_scala.pdf) [[bibTex]](bib/qrs21_scala.txt)
-
-* \[**ASE 2021**\] 
-  Xutong Ma, ***Jiwei Yan***, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
+  
+* \[**ASE 2021**\] Xutong Ma, ***Jiwei Yan***, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
   **Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers.**
   The 36th IEEE/ACM International Conference on Automated Software Engineering, ASE 2021, Tool Track. 
   [[pdf]](pdf/ase21_sp.pdf) [[bibTex]](bib/ase21_sp.txt)
-
+  
 * \[**SCP 2021**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
   **Efficient Testing of GUI Applications by Event Sequence reduction.**
   Science of Computer Programming, SCP, 201: 102522 (2021)
