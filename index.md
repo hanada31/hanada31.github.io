@@ -34,12 +34,12 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 \# for the corresponding author
 
 ### 2026
-* \[**ICSE 2026**\] Yuanyuan Xie, Jun Liu, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
+* \[**ICSE 2026**\] Jun Liu, Yuanyuan Xie, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
   **Write Your Own CodeChecker: An Automated Test-Driven Checker Development Approach with LLMs.** 
   ICSE 2026. (accepted at the first round, 60/660) [[pdf]](https://arxiv.org/pdf/2411.06796) [[AutoChecker Demonstrate]](https://autochecker.maskeduser.party/)  
 
 ### 2025
-* \[**ICSME 2025**\] Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang
+* \[**ICSME 2025**\] Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang.
   **A Chopping-Based Approach for Debloating Android Applications.** 
   ICSME 2025. 
   
