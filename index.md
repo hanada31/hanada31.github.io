@@ -12,7 +12,9 @@ Associate Professor at Technology Center of Software Engineering, [Institute of 
 
 Email: yanjiwei(AT)otcaix.iscas.ac.cn
 
-Research interests: Program Analysis, Software Testing, Mobile Applications, LLM4SE.
+Website: https://people.ucas.edu.cn/~yanjiwei
+
+Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 ## Education
 
@@ -33,8 +35,10 @@ Research interests: Program Analysis, Software Testing, Mobile Applications, LLM
 
 \# for the corresponding author
 
+\* for the authors with equal contribution
+
 ### 2026
-* \[**ICSE 2026**\] Jun Liu, Yuanyuan Xie, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
+* \[**ICSE 2026**\] Jun Liu\*, Yuanyuan Xie\*, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
   **Write Your Own CodeChecker: An Automated Test-Driven Checker Development Approach with LLMs.** 
   ICSE 2026. (accepted at the first round, 60/660) [[pdf]](https://arxiv.org/pdf/2411.06796) [[AutoChecker Demonstrate]](https://autochecker.maskeduser.party/)  
 
