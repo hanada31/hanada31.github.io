@@ -107,29 +107,37 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 ### Software Testing 
 
-* \[**FCS 2025**\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
+* \[**FCS 2026\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. **
+
   **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
   Frontiers of Computer Science (FCS) 2026. [[pdf]](pdf/FCS26_HACMony.pdf) 
+
 * \[**ISSRE 2024**\] Jun Liu, ***Jiwei Yan#***, Yuanyuan Xie, Jun Yan, Jian Zhang. 
   **Fix the tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker.**
   The 35th International Symposium on Software Reliability Engineering, ISSRE 2024.  [[pdf]](pdf/issre24_synter.pdf) [[SynTeR Tool]](https://github.com/SQUARE-RG/SynTeR)
+  
 * \[**ISSTA 2024**\] Yakun Zhang, Qihao Zhu, ***Jiwei Yan***, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang.
   **Synthesis-based Enhancement for GUI Test Case Migration.**
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024. [[pdf]](pdf/issta24_testMig.pdf)
+  
 * \[**ASE 2023**\] Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
   **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
   The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. [[pdf]](pdf/ase23_ictDroid.pdf)[[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
+  
 * \[**JSS 2023**\] Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
   **Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting.** 
   Journal of Systems & Software, JSS 2023. [[pdf]](pdf/jss23_misexpose.pdf)
+  
 * \[**ISSRE 2022**\] Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
   **String Test Data Generation for Java Programs.**
   The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE 2022.
   [[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
+  
 * \[**SCP 2021**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
   **Efficient Testing of GUI Applications by Event Sequence reduction.**
   Science of Computer Programming, SCP, 201: 102522 (2021)
   [[pdf]](pdf/scp21_chard.pdf) [[bibTex]](bib/scp21_chard.txt)
+  
 * \[**TASE 2019**\] Ping Wang, ***Jiwei Yan***, Xi Deng, Jun Yan, Jian Zhang.
   **Understanding Ineffective Events and Reducing Test Sequences for Android Applications.**
   The 13th International Symposium on Theoretical Aspects of Software Engineering, TASE 2019.
@@ -139,6 +147,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
   The 42nd International Conference on Software Engineering, ICSE 2020.
   [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/icse20_fax.txt)[[FaxTool]](https://github.com/hanada31/Fax)
+  
 * \[**ISSTA 2018**\] ***Jiwei Yan***, Linjie Pan, Yaqi Li, Jun Yan, Jian Zhang.
   **LAND: a user-friendly and customizable test generation tool for Android apps.**
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2018, Tool Track.
