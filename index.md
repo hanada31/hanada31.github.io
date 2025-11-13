@@ -187,4 +187,4 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 ## Service
 
 * PC Member of MobileSoft'22/23, ISSTA'24/25.
-* Reviewer of  ICSE, FSE, TDSC, ISSRE, Frontiers of Computer Science, etc.
+* Reviewer of  TSE, TOSEM, TDSC, FCS, JSS, TR, etc.
