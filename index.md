@@ -107,7 +107,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 ### Software Testing 
 
-* \[**FCS 2026\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. **
+* \[**FCS 2026**\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
 
   **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
   Frontiers of Computer Science (FCS) 2026. [[pdf]](pdf/FCS26_HACMony.pdf) 
