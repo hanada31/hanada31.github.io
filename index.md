@@ -23,11 +23,11 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
 
 ## News
-**Oct 2025**: Our paper “**HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS”  was accepted by Frontiers of Computer Science (FCS).
+**Dec 2025**: Our paper “**Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code**”  was accepted by FSE 2026 at the first round (direct acceptance rate < 10%).   
 
-**Jun 2025**: Our paper “Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs”  was accepted by ICSE 2026 at the first round (direct acceptance rate < 10%).  Try the playground of AutoChecker [at here :-)](https://autochecker.maskeduser.party/)
+**Oct 2025**: Our paper “**HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS**”  was accepted by Frontiers of Computer Science (FCS).
 
-**Jun 2025**: Our paper “An Efficient Android App Debloating Approach Based on Multi-layer Dependence Graph ” was accepted by ICSME 2025.
+**Jun 2025**: Our paper “**Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs**”  was accepted by ICSE 2026 at the first round (direct acceptance rate < 10%).  Try the playground of AutoChecker [at here :-)](https://autochecker.maskeduser.party/)
 
 **Apr 2025**: The tools developed by our research group are publicly available at [https://github.com/SQUARE-RG](https://github.com/SQUARE-RG)!
 
@@ -72,6 +72,9 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 ### Static Analysis 
 
+* \[**FSE 2026**\] Shuo Sun, Shixin Zhang, ***Jiwei Yan***, Jun Yan and  Jian Zhang.
+  **Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code.** 
+  The ACM International Conference on the Foundations of Software Engineering, FSE 2026. 
 * \[**ICSME 2025**\] Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang.
   **A Chopping-Based Approach for Debloating Android Applications.** 
   The 41th International Conference on Software Maintenance and Evolution, ICSME 2025. [[pdf]](pdf/ICSME2025_FlowSlicer.pdf)
@@ -108,7 +111,6 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 ### Software Testing 
 
 * \[**FCS 2026**\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
-
   **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
   Frontiers of Computer Science (FCS) 2026. [[pdf]](pdf/FCS26_HACMony.pdf) 
 
