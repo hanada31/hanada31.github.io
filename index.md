@@ -74,7 +74,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 * \[**FSE 2026**\] Shuo Sun, Shixin Zhang, ***Jiwei Yan***, Jun Yan and  Jian Zhang.
   **Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code.** 
-  The ACM International Conference on the Foundations of Software Engineering, FSE 2026. 
+  The ACM International Conference on the Foundations of Software Engineering, FSE 2026. [[pdf]](https://arxiv.org/abs/2512.21591)  
 * \[**ICSME 2025**\] Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang.
   **A Chopping-Based Approach for Debloating Android Applications.** 
   The 41th International Conference on Software Maintenance and Evolution, ICSME 2025. [[pdf]](pdf/ICSME2025_FlowSlicer.pdf)
