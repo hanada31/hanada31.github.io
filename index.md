@@ -23,15 +23,11 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
 
 ## News
-**Dec 2025**: Our paper “**Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code**”  was accepted by FSE 2026 at the first round (direct acceptance rate < 10%).   
+**May 2026**: I was invited to serve as a program committee member for **FSE 2027**.  
+
+**Dec 2025**: Our paper “**Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code**”  was accepted by FSE 2026 at the first round.   
 
 **Oct 2025**: Our paper “**HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS**”  was accepted by Frontiers of Computer Science (FCS).
-
-**Jun 2025**: Our paper “**Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs**”  was accepted by ICSE 2026 at the first round (direct acceptance rate < 10%).  Try the playground of AutoChecker [at here :-)](https://autochecker.maskeduser.party/)
-
-**Apr 2025**: The tools developed by our research group are publicly available at [https://github.com/SQUARE-RG](https://github.com/SQUARE-RG)!
-
-**Mar 2025**: We developed a website for AutoChecker, by which you can write your own code checker with LLM. [Go there!](https://autochecker.maskeduser.party/)
 
 ## Publications
 
@@ -42,7 +38,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 ### Code Checker
 * \[**ICSE 2026**\] Jun Liu\*, Yuanyuan Xie\*, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
   **Write Your Own CodeChecker: An Automated Test-Driven Checker Development Approach with LLMs.** 
-  ICSE 2026. (accepted at the first round, 60/660) [[pdf]](pdf/ICSE2026_AutoChecker.pdf) [[AutoChecker Demonstrate]](https://autochecker.maskeduser.party/)  
+  ICSE 2026. (accepted at the first round, 60/660) [[pdf]](pdf/ICSE2026_AutoChecker.pdf) [[AutoChecker Demonstrate]](https://autochecker.veilaxis.com)  
 * \[**ASE 2023**\] Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
   **Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count.** 
   The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  [[pdf]](pdf/ase23_pythonNative.pdf)
@@ -136,7 +132,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   [[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
   
 * \[**SCP 2021**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
-  **Efficient Testing of GUI Applications by Event Sequence reduction.**
+  **Efficient Testing of GUI Applications by Event Sequence Reduction.**
   Science of Computer Programming, SCP, 201: 102522 (2021)
   [[pdf]](pdf/scp21_chard.pdf) [[bibTex]](bib/scp21_chard.txt)
   
@@ -187,7 +183,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 ## Selected Honors
 
 * 入选 CCF 软件工程专委会优秀博士论文激励计划 (2023)
-* President Award of Chinese Academy of Sciences (2023)
+* President Award of the Chinese Academy of Sciences (2023)
 * Outstanding Graduate of the University of Chinese Academy of Sciences (2023)
 * Outstanding Graduates of Beijing City (2023)
 * ISCAS Excellent Youth Fund (2022)
@@ -197,5 +193,5 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 ## Service
 
-* PC Member of MobileSoft'22/23, ISSTA'24/25.
+* PC Member of MobileSoft'22/23, ISSTA'24/25, FSE 27.
 * Reviewer of  TSE, TOSEM, TDSC, FCS, JSS, TR, etc.
