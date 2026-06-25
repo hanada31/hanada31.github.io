@@ -24,11 +24,11 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 ## News
 
-**Jun 2026**: Our paper “**FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing**”  was accepted by ISSTA 2026.   
+**:tada: Jun 2026**: Our paper “**FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing**”  was accepted by **ISSTA 2026**.   
 
-**Jun 2026**: Our paper “**Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs**”  was accepted by ASE 2026.
+**:tada: Jun 2026**: Our paper “**Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs**”  was accepted by **ASE 2026**.
 
-**May 2026**: I was invited to serve as a program committee member for **FSE 2027**.  
+**:tada: May 2026**: I was invited to serve as a program committee member for **FSE 2027**.  
 
 ## Publications
 
@@ -36,51 +36,16 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 \* for the authors with equal contribution
 
-### Code Checker
+### :high_brightness: Static Analysis, Code Checker 
 * \[**ASE 2026**\] Jun Liu, Liqiang Ji, ***Jiwei Yan#***, Linjie Pan, Jinsong Ren, Jun Yan, Jian Zhang.
   **Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs.** 
   The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026.
   
 * \[**ICSE 2026**\] Jun Liu\*, Yuanyuan Xie\*, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
-  **Write Your Own CodeChecker: An Automated Test-Driven Checker Development Approach with LLMs.** 
-  ICSE 2026. [[pdf]](pdf/ICSE2026_AutoChecker.pdf) [[AutoChecker Demonstrate]](https://autochecker.veilaxis.com)
-  
-* \[**ASE 2023**\] Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
-  **Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count.** 
-  The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  [[pdf]](pdf/ase23_pythonNative.pdf)
+  **Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs.**
+  The 48th IEEE/ACM International Conference on Software Engineering, ICSE 2026. [[pdf]](pdf/ICSE2026_AutoChecker.pdf) [[AutoChecker Demonstrate]](https://autochecker.veilaxis.com)
 
-* \[**ASE 2023**\] Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
-    **Detection of Java Basic Thread Misuses Based on Static Event Analysis.** 
-    The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [[pdf]](pdf/ase23_javaThread.pdf)
-
-* \[**QRS 2021**\] Xin Zhang, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
-  **Are the Scala Checks Effective? Evaluating Checks with Real-world Projects.**
-  The 21st IEEE International Conference on Software Quality, Reliability, and Security, QRS 2021. 
-  [[pdf]](pdf/qrs21_scala.pdf) [[bibTex]](bib/qrs21_scala.txt)
-
-* \[**ASE 2021**\] Xutong Ma, ***Jiwei Yan***, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
-  **Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers.**
-  The 36th IEEE/ACM International Conference on Automated Software Engineering, ASE 2021, Tool Track. 
-  [[pdf]](pdf/ase21_sp.pdf) [[bibTex]](bib/ase21_sp.txt)
-
-* \[**ESEC/FSE 2020**\] Linjie Pan, Baoquan Cui, Hao Liu, ***Jiwei Yan***, Siqi Wang, Jun Yan, Jian Zhang. 
-  **Static Asynchronous Component Misuse Detection for Android Applications.**
-  The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, FSE 2020.
-  [[pdf]](pdf/fse20_async.pdf) [[bibTex]](bib/fse20_async.txt)
-
-* \[**ASE 2019**\] Xutong Ma, ***Jiwei Yan***, Yaqi Li, Jun Yan, Jian Zhang.
-  **SPrinter: A Clang-Tidy Based Static Code Checker for C++ Smart Pointer Errors.**
-  The 34th IEEE/ACM International Conference on Automated Software Engineering, ASE 2019, Tool Track.
-  [[pdf]](pdf/ase19_smartpointer.pdf) [[bibTex]](bib/ase19_smartpointer.txt)
-
-* \[**ASE 2018**\] ***Jiwei Yan***, Xi Deng, Ping Wang, Tianyong Wu, Jun Yan, Jian Zhang.
-  **Characterizing and identifying misexposed activities in Android applications.** 
-  The 33rd IEEE/ACM International Conference on Automated Software Engineering, ASE 2018.
-  [[pdf]](pdf/ase18_misexpose.pdf) [[bibTex]](bib/ase18_misexpose.txt)
-
-### Static Analysis 
-
-* \[**FSE 2026**\] Shuo Sun, Shixin Zhang, ***Jiwei Yan***, Jun Yan and  Jian Zhang.
+* \[**FSE 2026**\] Shuo Sun, Shixin Zhang, ***Jiwei Yan#***, Jun Yan and  Jian Zhang.
   **Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code.** 
   The ACM International Conference on the Foundations of Software Engineering, FSE 2026. [[pdf]](https://arxiv.org/abs/2512.21591)  
 
@@ -105,10 +70,38 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   The 45th IEEE/ACM International Conference on Software Engineering, ICSE 2023. 
   [[pdf]](pdf/icse23_crashtracker.pdf) [[bibTex]](bib/icse23_crashtracker.txt) [[CrashTracker Tool]](https://github.com/hanada31/CrashTracker)[[Docker file]](https://hub.docker.com/repository/docker/hanada31/crash_tracker/general)
 
+* \[**ASE 2023**\] Xutong Ma, ***Jiwei Yan***, Hao Zhang, Jun Yan, Jian Zhang.
+  **Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count.** 
+  The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023.  [[pdf]](pdf/ase23_pythonNative.pdf)
+
+* \[**ASE 2023**\] Baoquan Cui, Miaomiao Wang, Chi Zhang, ***Jiwei Yan***,  Jun Yan, Jian Zhang.
+    **Detection of Java Basic Thread Misuses Based on Static Event Analysis.** 
+    The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [[pdf]](pdf/ase23_javaThread.pdf)
+
 * \[**ICSE 2022**\] ***Jiwei Yan***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
   **ICCBot: Fragment-Aware and Context-Sensitive ICC Resolution for Android Applications.**
   The 44th International Conference on Software Engineering, ICSE 2022, Tool Track.
   [[pdf]](pdf/icse22_iccbot.pdf) [[bibTex]](bib/icse22_iccbot.txt)[[ICCBot Tool]](https://github.com/hanada31/ICCBot)
+
+* \[**QRS 2021**\] Xin Zhang, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
+  **Are the Scala Checks Effective? Evaluating Checks with Real-world Projects.**
+  The 21st IEEE International Conference on Software Quality, Reliability, and Security, QRS 2021. 
+  [[pdf]](pdf/qrs21_scala.pdf) [[bibTex]](bib/qrs21_scala.txt)
+
+* \[**ASE 2021**\] Xutong Ma, ***Jiwei Yan***, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu.
+  **Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers.**
+  The 36th IEEE/ACM International Conference on Automated Software Engineering, ASE 2021, Tool Track. 
+  [[pdf]](pdf/ase21_sp.pdf) [[bibTex]](bib/ase21_sp.txt)
+
+* \[**ESEC/FSE 2020**\] Linjie Pan, Baoquan Cui, Hao Liu, ***Jiwei Yan***, Siqi Wang, Jun Yan, Jian Zhang. 
+  **Static Asynchronous Component Misuse Detection for Android Applications.**
+  The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, FSE 2020.
+  [[pdf]](pdf/fse20_async.pdf) [[bibTex]](bib/fse20_async.txt)
+
+* \[**ASE 2019**\] Xutong Ma, ***Jiwei Yan***, Yaqi Li, Jun Yan, Jian Zhang.
+  **SPrinter: A Clang-Tidy Based Static Code Checker for C++ Smart Pointer Errors.**
+  The 34th IEEE/ACM International Conference on Automated Software Engineering, ASE 2019, Tool Track.
+  [[pdf]](pdf/ase19_smartpointer.pdf) [[bibTex]](bib/ase19_smartpointer.txt)
 
 * \[**QRS 2019**\] Xutong Ma, ***Jiwei Yan***, Jun Yan, Jian Zhang.
   **Reorganizing and Optimizing Post-Inspection on Suspicious Bug Reports in Path-Sensitive Analysis.**
@@ -120,12 +113,17 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2019, Tool Track.
   [[pdf]](pdf/issta19_androlic.pdf) [[bibTex]](bib/issta19_androlic.txt)
 
+* \[**ASE 2018**\] ***Jiwei Yan***, Xi Deng, Ping Wang, Tianyong Wu, Jun Yan, Jian Zhang.
+  **Characterizing and identifying misexposed activities in Android applications.** 
+  The 33rd IEEE/ACM International Conference on Automated Software Engineering, ASE 2018.
+  [[pdf]](pdf/ase18_misexpose.pdf) [[bibTex]](bib/ase18_misexpose.txt)
+
 * \[**ICFEM 2018**\] Cunjing Ge, ***Jiwei Yan#***, Jun Yan, Jian Zhang.
   **Checking Activity Transition Systems with Back Transitions Against Assertions.**
   The 20th International Conference on Formal Engineering Method, ICFEM 2018. 
   [[pdf]](pdf/icfem18_backTransition.pdf) [[bibTex]](bib/icfem18_backTransition.txt)
 
-### Software Testing 
+### :scissors: Software Testing 
 * \[**ISSTA 2026**\] Jinlong He, Changwei Xia, Binru Huang, ***Jiwei Yan#***, Jun Yan, Jian Zhang.
   **FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing.** 
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2026.
@@ -191,7 +189,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   [[pdf]](pdf/tase16_energy.pdf) [[bibTex]](bib/tase16_energy.txt)
 
 
-### Benchmarks, Evaluations
+### :book: Benchmarks, Evaluations
 
 * \[**SANER 2022**\] Xin Zhang, Rongjie Yan, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
   **EXCEPY: A Python Benchmark for Bugs with Python Built-in Types.**
@@ -202,8 +200,6 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   **A Comprehensive Evaluation of Android ICC Resolution Techniques.** 
   The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
   [[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
-
-
 
 ## Selected Honors
 
@@ -218,5 +214,5 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 ## Service
 
-* PC Member of MobileSoft'22/23, ISSTA'24/25, FSE 27.
-* Reviewer of  TSE, TOSEM, TDSC, FCS, JSS, TR, etc.
+* PC Member of MobileSoft'22/23, ISSTA'24/25, FSE'27.
+* Reviewer of TSE, TOSEM, TDSC, FCS, JSS, TR, etc.
