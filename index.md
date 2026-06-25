@@ -16,27 +16,27 @@ Website: https://people.ucas.edu.cn/~yanjiwei
 
 Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
-## Education
+## 🎓 Education
 
 * Sep 2019 - Jun 2023, Ph.D. in Computer Science, University of Chinese Academy of Sciences, supervised by [Prof. Jun Yan](http://lcs.ios.ac.cn/~yanjun/)
 * Sep 2014 - Jun 2017, M.Eng. in Computer Science, University of Chinese Academy of Sciences, supervised by [Prof. Jian Zhang](http://lcs.ios.ac.cn/~zj/)
 * Sep 2010 - Jun 2014, B.Eng. in Computer Science, Beijing Jiaotong University
 
-## News
+## 📢 News
 
-**:tada: Jun 2026**: Our paper “**FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing**”  was accepted by **ISSTA 2026**.   
+**🎉 Jun 2026**: Our paper “**FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing**”  was accepted by **ISSTA 2026**.   
 
-**:tada: Jun 2026**: Our paper “**Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs**”  was accepted by **ASE 2026**.
+**🎉 Jun 2026**: Our paper “**Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs**”  was accepted by **ASE 2026**.
 
-**:tada: May 2026**: I was invited to serve as a program committee member for **FSE 2027**.  
+**🎉 May 2026**: I was invited to serve as a program committee member for **FSE 2027**.  
 
-## Publications
+## 📄 Publications
 
 \# for the corresponding author
 
 \* for the authors with equal contribution
 
-### :high_brightness: Static Analysis, Code Checker 
+### 🔆 Static Analysis, Code Checker 
 * \[**ASE 2026**\] Jun Liu, Liqiang Ji, ***Jiwei Yan#***, Linjie Pan, Jinsong Ren, Jun Yan, Jian Zhang.
   **Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs.** 
   The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026.
@@ -123,7 +123,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   The 20th International Conference on Formal Engineering Method, ICFEM 2018. 
   [[pdf]](pdf/icfem18_backTransition.pdf) [[bibTex]](bib/icfem18_backTransition.txt)
 
-### :scissors: Software Testing 
+### ✂️ Software Testing 
 * \[**ISSTA 2026**\] Jinlong He, Changwei Xia, Binru Huang, ***Jiwei Yan#***, Jun Yan, Jian Zhang.
   **FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing.** 
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2026.
@@ -189,7 +189,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   [[pdf]](pdf/tase16_energy.pdf) [[bibTex]](bib/tase16_energy.txt)
 
 
-### :book: Benchmarks, Evaluations
+### 📖 Benchmarks, Evaluations
 
 * \[**SANER 2022**\] Xin Zhang, Rongjie Yan, ***Jiwei Yan#***, Baoquan Cui, Jun Yan, Jian Zhang.
   **EXCEPY: A Python Benchmark for Bugs with Python Built-in Types.**
@@ -201,7 +201,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   The 37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022.
   [[pdf]](pdf/ase22_ICCEvaluation.pdf) [[bibTex]](bib/ase22_ICCEvaluation.txt) [[ICCViewer Dataset]](https://iccviewer.ldby.site/ICCViewer/)
 
-## Selected Honors
+## 🏆 Selected Honors
 
 * 入选 CCF 软件工程专委会优秀博士论文激励计划 (2023)
 * President Award of the Chinese Academy of Sciences (2023)
@@ -212,7 +212,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 * First-class academic scholarship (2020)
 * National Scholarship for Ph.D. Students (2020)
 
-## Service
+## 🤝 Service
 
 * PC Member of MobileSoft'22/23, ISSTA'24/25, FSE'27.
 * Reviewer of TSE, TOSEM, TDSC, FCS, JSS, TR, etc.
