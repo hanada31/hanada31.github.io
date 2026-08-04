@@ -24,9 +24,11 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 ## 📢 News
 
-**🎉 Jun 2026**: Our paper “**FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing**”  was accepted by **ISSTA 2026**.   
+**🎉 Aug 2026**: Our paper “**Mind the Gap: Do Widely-Used SAST Tools Really Cover the Language-Specific Top CWEs?**”  was accepted by **ASE 2026**.   
 
 **🎉 Jun 2026**: Our paper “**Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs**”  was accepted by **ASE 2026**.
+
+**🎉 Jun 2026**: Our paper “**FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing**”  was accepted by **ISSTA 2026**.   
 
 **🎉 May 2026**: I was invited to serve as a program committee member for **FSE 2027**.  
 
@@ -37,9 +39,14 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 \* for the authors with equal contribution
 
 ### 🔆 Static Analysis, Code Checker 
+
+* \[**ASE 2026**\] Zhilin Li, Yiran Nie, Xianglong Qi, ***Jiwei Yan#***, Jun Yan.
+  **Mind the Gap: Do Widely-Used SAST Tools Really Cover the Language-Specific Top CWEs?** 
+  The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026. [[Data]](https://zenodo.org/records/19122264) [[Website]](https://language-specific-top-cwe.netlify.app/)
+  
 * \[**ASE 2026**\] Jun Liu, Liqiang Ji, ***Jiwei Yan#***, Linjie Pan, Jinsong Ren, Jun Yan, Jian Zhang.
   **Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs.** 
-  The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026.
+  The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026. [[ScenSCT Tool]](https://github.com/SQUARE-RG/ScenSCT) [[Website]](https://scensct-visualizer.pages.dev/)
   
 * \[**ICSE 2026**\] Jun Liu\*, Yuanyuan Xie\*, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
   **Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs.**
@@ -126,7 +133,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 ### ✂️ Software Testing 
 * \[**ISSTA 2026**\] Jinlong He, Changwei Xia, Binru Huang, ***Jiwei Yan#***, Jun Yan, Jian Zhang.
   **FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing.** 
-  The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2026.
+  The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2026.  [[pdf]](https://arxiv.org/pdf/2602.12834) [[FuncDroid Tool]](https://github.com/SQUARE-RG/FuncDroid) [[Website]](https://fim-bugs.sites.veilaxis.com/)
 
 * \[**FCS 2026**\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
   **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
