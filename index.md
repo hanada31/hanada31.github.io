@@ -42,11 +42,11 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 * \[**ASE 2026**\] Zhilin Li, Yiran Nie, Xianglong Qi, ***Jiwei Yan#***, Jun Yan.
   **Mind the Gap: Do Widely-Used SAST Tools Really Cover the Language-Specific Top CWEs?** 
-  The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026. [[Data]](https://zenodo.org/records/19122264) [[Website]](https://language-specific-top-cwe.netlify.app/)
+  The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026.  [[pdf]](pdf/ASE26-CWE.pdf)[[Data]](https://zenodo.org/records/19122264) [[Website]](https://language-specific-top-cwe.netlify.app/)
   
 * \[**ASE 2026**\] Jun Liu, Liqiang Ji, ***Jiwei Yan#***, Linjie Pan, Jinsong Ren, Jun Yan, Jian Zhang.
   **Every Scenario Matters: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs.** 
-  The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026. [[ScenSCT Tool]](https://github.com/SQUARE-RG/ScenSCT) [[Website]](https://scensct-visualizer.pages.dev/)
+  The 41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026.  [[pdf]](pdf/ASE26-ScenSCT.pdf)[[ScenSCT Tool]](https://github.com/SQUARE-RG/ScenSCT) [[Website]](https://scensct-visualizer.pages.dev/)
   
 * \[**ICSE 2026**\] Jun Liu\*, Yuanyuan Xie\*, ***Jiwei Yan#***, Jinhao Huang, Jun Yan, Jian Zhang.
   **Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs.**
@@ -131,65 +131,54 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   [[pdf]](pdf/icfem18_backTransition.pdf) [[bibTex]](bib/icfem18_backTransition.txt)
 
 ### ✂️ Software Testing 
+* \[**ASE 2026**\] 
+* Shuo Sun, Yixuan Fu, Shixin Zhang,  Jiwei Yan, Jun Yan,  Jian Zhang. **ShapeTester: Constraint-Aware Two-Stage Test Case Generation for Detecting Shape Errors in Deep Learning Frameworks.** Automated Software Engineering, ASE (Journal). [[pdf]](pdf/ASE26-ShapeTester.pdf)
 * \[**ISSTA 2026**\] Jinlong He, Changwei Xia, Binru Huang, ***Jiwei Yan#***, Jun Yan, Jian Zhang.
   **FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing.** 
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2026.  [[pdf]](https://arxiv.org/pdf/2602.12834) [[FuncDroid Tool]](https://github.com/SQUARE-RG/FuncDroid) [[Website]](https://fim-bugs.sites.veilaxis.com/)
-
 * \[**FCS 2026**\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
   **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
   Frontiers of Computer Science (FCS) 2026. [[pdf]](pdf/FCS26_HACMony.pdf) 
-
 * \[**ISSRE 2024**\] Jun Liu, ***Jiwei Yan#***, Yuanyuan Xie, Jun Yan, Jian Zhang. 
   **Fix the tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker.**
   The 35th International Symposium on Software Reliability Engineering, ISSRE 2024.  [[pdf]](pdf/issre24_synter.pdf) [[SynTeR Tool]](https://github.com/SQUARE-RG/SynTeR)
-  
 * \[**ISSTA 2024**\] Yakun Zhang, Qihao Zhu, ***Jiwei Yan***, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang.
   **Synthesis-based Enhancement for GUI Test Case Migration.**
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024. [[pdf]](pdf/issta24_testMig.pdf)
-  
 * \[**ASE 2023**\] Shixin Zhang, Shanna Li, Xi Deng, ***Jiwei Yan#***,  Jun Yan.
   **ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps.** 
   The 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Tool Track. [[pdf]](pdf/ase23_ictDroid.pdf)[[ICTDroid Tool]](https://github.com/LightningRS/ICTDroid)
-  
 * \[**JSS 2023**\] Xi Deng, ***Jiwei Yan#***, Shixin Zhang, Yepang Liu, Jun Yan, Jian Zhang.
   **Variable-Strength Combinatorial Testing of Exported Activities based on Misexposure Predicting.** 
   Journal of Systems & Software, JSS 2023. [[pdf]](pdf/jss23_misexpose.pdf)
-  
 * \[**ISSRE 2022**\] Miaomiao Wang, Baoquan Cui, ***Jiwei Yan***, Jun Yan and Jian Zhan.
   **String Test Data Generation for Java Programs.**
   The 33rd IEEE International Symposium on Software Reliability Engineering, ISSRE 2022.
   [[pdf]](pdf/issre22_StrTestGen.pdf) [[bibTex]](bib/issre22_StrTestGen.txt)
-  
 * \[**SCP 2021**\] ***Jiwei Yan***, Hao Zhou, Xi Deng, Ping Wang, Rongjie Yan, Jun Yan, Jian Zhang.
   **Efficient Testing of GUI Applications by Event Sequence Reduction.**
   Science of Computer Programming, SCP, 201: 102522 (2021)
   [[pdf]](pdf/scp21_chard.pdf) [[bibTex]](bib/scp21_chard.txt)
-  
 * \[**TASE 2019**\] Ping Wang, ***Jiwei Yan***, Xi Deng, Jun Yan, Jian Zhang.
   **Understanding Ineffective Events and Reducing Test Sequences for Android Applications.**
   The 13th International Symposium on Theoretical Aspects of Software Engineering, TASE 2019.
   [[pdf]](pdf/tase19_ineffective.pdf) [[bibTex]](bib/tase19_ineffective.txt)
-
 * \[**ICSE 2020**\] ***Jiwei Yan***, Hao Liu, Linjie Pan, Jun Yan, Jian Zhang, Bin Liang. 
   **Multiple-Entry Testing of Android Applications by Constructing Activity Launching Contexts.**
   The 42nd International Conference on Software Engineering, ICSE 2020.
   [[pdf]](pdf/icse20_fax.pdf) [[bibTex]](bib/icse20_fax.txt)[[FaxTool]](https://github.com/hanada31/Fax)
-  
 * \[**ISSTA 2018**\] ***Jiwei Yan***, Linjie Pan, Yaqi Li, Jun Yan, Jian Zhang.
   **LAND: a user-friendly and customizable test generation tool for Android apps.**
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2018, Tool Track.
   [[pdf]](pdf/issta18_land.pdf) [[bibTex]](bib/issta18_land.txt)
-
 * \[**SCP 2018**\] Yan Hu, ***Jiwei Yan***, Dong Yan, Qiong Lu, Jun Yan.
   **Lightweight energy consumption analysis and prediction for Android applications.** 
   Science of Computer Programming, SCP 2018.
   [[pdf]](pdf/scp18_energy.pdf) [[bibTex]](bib/scp18_energy.txt)
-
 * \[**QRS 2017**\] ***Jiwei Yan***, Tianyong Wu, Jun Yan, Jian Zhang.
   **Widget-Sensitive and Back-Stack-Aware GUI Exploration for Testing Android Apps.**
   The 17th International Conference on Software Quality, Reliability and Security, QRS 2017. 
   [[pdf]](pdf/qrs17_land.pdf) [[bibTex]](bib/qrs17_land.txt)
-
 * \[**TASE 2016**\] Qiong Lu, Tianyong Wu, ***Jiwei Yan***, Jun Yan, Feifei Ma, Fan Zhang.
   **Lightweight Method-Level Energy Consumption Estimation for Android Applications.**
   The 10th International Symposium on Theoretical Aspects of Software Engineering, TASE 2016.
