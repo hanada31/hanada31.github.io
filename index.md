@@ -54,7 +54,7 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
 
 * \[**FSE 2026**\] Shuo Sun, Shixin Zhang, ***Jiwei Yan#***, Jun Yan and  Jian Zhang.
   **Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code.** 
-  The ACM International Conference on the Foundations of Software Engineering, FSE 2026. [[pdf]](https://arxiv.org/abs/2512.21591)  
+  The ACM International Conference on the Foundations of Software Engineering, FSE 2026. [[pdf]](pdf/fse26-pythontype.pdf)  
 
 * \[**ICSME 2025**\] Hengqin Yang,  ***Jiwei Yan#***, Jun Yan, Jian Zhang and Bin Liang.
   **A Chopping-Based Approach for Debloating Android Applications.** 
@@ -131,11 +131,10 @@ Research interests: LLM4SE, Program Analysis and Testing, Mobile Apps, etc.
   [[pdf]](pdf/icfem18_backTransition.pdf) [[bibTex]](bib/icfem18_backTransition.txt)
 
 ### ✂️ Software Testing 
-* \[**ASE 2026**\] 
-* Shuo Sun, Yixuan Fu, Shixin Zhang,  Jiwei Yan, Jun Yan,  Jian Zhang. **ShapeTester: Constraint-Aware Two-Stage Test Case Generation for Detecting Shape Errors in Deep Learning Frameworks.** Automated Software Engineering, ASE (Journal). [[pdf]](pdf/ASE26-ShapeTester.pdf)
-* \[**ISSTA 2026**\] Jinlong He, Changwei Xia, Binru Huang, ***Jiwei Yan#***, Jun Yan, Jian Zhang.
+* \[**ASE 2026**\] Shuo Sun, Yixuan Fu, Shixin Zhang,  Jiwei Yan, Jun Yan,  Jian Zhang. **ShapeTester: Constraint-Aware Two-Stage Test Case Generation for Detecting Shape Errors in Deep Learning Frameworks.** Automated Software Engineering, ASE (Journal). [[pdf]](pdf/ASE26-ShapeTester.pdf)
+* \[**ISSTA 2026**\] Jinlong He, Changwei Xia, Binru Huang, ***Jiwei Yan#***, Jun Yan, Jian Zhang. 
   **FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing.** 
-  The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2026.  [[pdf]](https://arxiv.org/pdf/2602.12834) [[FuncDroid Tool]](https://github.com/SQUARE-RG/FuncDroid) [[Website]](https://fim-bugs.sites.veilaxis.com/)
+  The ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2026.  [[pdf]](pdf/Issta26-FuncDroid.pdf) [[FuncDroid Tool]](https://github.com/SQUARE-RG/FuncDroid) [[Website]](https://fim-bugs.sites.veilaxis.com/)
 * \[**FCS 2026**\] Jinlong He, Binru Huang, Hengqin Yang, ***Jiwei Yan#***, Jun Yan. 
   **HACMony: Automatically Testing Hopping-related Audio-stream Conflict Issues on HarmonyOS.** 
   Frontiers of Computer Science (FCS) 2026. [[pdf]](pdf/FCS26_HACMony.pdf) 
